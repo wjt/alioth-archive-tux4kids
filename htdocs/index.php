@@ -125,23 +125,32 @@ and downloads are available at this site (see below). As you likely can tell, we
  efforts have been going into development of the programs themselves.  If you are
 interested in helping, contact us at <a href="mailto:tuxmath-devel@lists.sourceforge.net?subject=Website%20help">
 tuxmath-devel@lists.sourceforge.net</a> </p>
+<p>
+If you run Debian simply run
+<pre>apt-get install tuxmath tuxtype tuxtype-data-nonfree</pre>
+</p>
 
 <p>Downloads of source releases and Windows and MacOSX binaries are 
 available
 <a href="http://alioth.debian.org/frs/?group_id=31080">here.</a></p> 
+
+<p><i>NEW: </i>TuxMath 1.5.8 has just been released. </p>
 
 <p><i>NEW: </i>TuxMath 1.5.7 has just been released.  This version features many new graphics
 and refinements of the menu system, for a more polished and professional appearance. You can 
 now earn "gold stars" by completing the lessons in the Math Command Training Academy.  The Hall
 of Fame (high score table) is fully operational. The code also includes a bug fix in the menu 
 system and corrections of two errors in the lesson files.</p>
-There is also an i386 .rpm for TuxMath 1.5.4.  For users of Debian 
-and its derivatives, recent TuxMath (1.5.4) and TuxType (1.5.15) 
-packages are now available in the "Sid/Unstable" branch.
 
-<p>FIXME: ssh into alioth.debian.org, and edit 
-/var/lib/gforge/chroot/home/groups/tux4kids/htdocs/index.php and add 
-some links to the lists, svn, etc here :-)</p> 
+<p>There is also an i386 .rpm for TuxMath 1.5.4. </p>
+
+<p>For users of Debian 
+and its derivatives, recent TuxMath (1.5.8) and TuxType (1.5.15) 
+packages are now available in the "Sid/Unstable" branch.
+</p>
+
+<p><b>FIXME</b>add some links to the lists, svn, etc here :-)</p> 
+
 <?php if ($handle=fopen('http://'.$domain.'/export/projnews.php?group_name='.$group_name,'r')){
 $contents = '';
 while (!feof($handle)) {
