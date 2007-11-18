@@ -149,14 +149,16 @@ and its derivatives, recent TuxMath (1.5.8) and TuxType (1.5.15)
 packages are now available in the "Sid/Unstable" branch.
 </p>
 
-<p><b>FIXME:</b> add some links to the lists, svn, etc here :-)</p> 
+<p><h3>Links</h4>
 <ul>
-	<li>Subversion source code repository for tuxtype and tuxmath: <a href="http://svn.debian.org/wsvn/tux4kids">browsable</a> or <a href="svn://svn.debian.org/tux4kids/"></a>svn://svn.debian.org/tux4kids/</li>
-	<li><a href="http://bugs.debian.org/tuxtype"></a>Bugs in the Debian BTS against tuxtype</li> 
-	<li><a href="http://bugs.debian.org/tuxtype-data-nonfree"></a>Bugs in the Debian BTS against tuxtype-data-non-free</li> 
-	<li><a href="http://bugs.debian.org/tuxmath"></a>Bugs in the Debian BTS against tuxmath</ul></li>
+	<li>Subversion source code repository for tuxtype and tuxmath: <a href="http://svn.debian.org/wsvn/tux4kids">browsable</a> or <a href="svn://svn.debian.org/tux4kids/">svn://svn.debian.org/tux4kids/</a></li>
+	<li>browsable archive of the <a href="http://lists.alioth.debian.org/pipermail/tux4kids-commits/">svn commit mailinglist</a></li>
+	<li>browsable archive of the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=tuxmath-devel">tuxmath-devel mailinglist</a>(which is also used for tuxtype)</li>
+		<li><a href="http://bugs.debian.org/tuxtype">Bugs in the Debian BTS against tuxtype</a></li> 
+	<li><a href="http://bugs.debian.org/tuxtype-data-nonfree">Bugs in the Debian BTS against tuxtype-data-non-free</a></li> 
+	<li><a href="http://bugs.debian.org/tuxmath">Bugs in the Debian BTS against tuxmath</a></li>
 </ul>
-
+</p>
 
 <hr>
 <h2>Tuxpaint</h2>
