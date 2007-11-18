@@ -163,7 +163,7 @@ packages are now available in the "Sid/Unstable" branch.
 <hr>
 <h2>Tuxpaint</h2>
 <p>
-	For now, just a pointer to the <a href="http://www.tuxpaint.org" target="_blank">tuxpaint homepage</a>.
+Please follow the link to the excellent <a href="http://www.tuxpaint.org" target="_blank">tuxpaint homepage</a>.
 </p>
 <hr>
 
