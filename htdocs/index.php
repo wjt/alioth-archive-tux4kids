@@ -134,9 +134,9 @@ If you run Debian simply run
 available
 <a href="http://alioth.debian.org/frs/?group_id=31080">here.</a></p> 
 
-<p><i>NEW: </i>TuxMath 1.5.8 has just been released. </p>
+<p><i>NEWS, 2007-11-15: </i>TuxMath 1.5.8 has just been released. </p>
 
-<p><i>NEW: </i>TuxMath 1.5.7 has just been released.  This version features many new graphics
+<p><i>NEWS, 2007-10-29: </i>TuxMath 1.5.7 has just been released.  This version features many new graphics
 and refinements of the menu system, for a more polished and professional appearance. You can 
 now earn "gold stars" by completing the lessons in the Math Command Training Academy.  The Hall
 of Fame (high score table) is fully operational. The code also includes a bug fix in the menu 
@@ -149,7 +149,7 @@ and its derivatives, recent TuxMath (1.5.8) and TuxType (1.5.15)
 packages are now available in the "Sid/Unstable" branch.
 </p>
 
-<p><b>FIXME</b>add some links to the lists, svn, etc here :-)</p> 
+<p><b>FIXME:</b> add some links to the lists, svn, etc here :-)</p> 
 
 <?php if ($handle=fopen('http://'.$domain.'/export/projnews.php?group_name='.$group_name,'r')){
 $contents = '';
