@@ -151,12 +151,10 @@ packages are now available in the "Sid/Unstable" branch.
 
 <p><b>FIXME:</b> add some links to the lists, svn, etc here :-)</p> 
 <ul>
-	<li>Subversion source repository:<a href="http://svn.debian.org/wsvn/tux4kids">browsable</a></ul> or <a href="svn://svn.debian.org/tux4kids/"></a>svn://svn.debian.org/tux4kids/</li>
-	<li><a href="http://bugs.debian.org/tuxtype"></a>bugs in the Debian BTS against tuxtype</li> 
-	<li><a href="http://bugs.debian.org/tuxtype-data-nonfree"></a>bugs in the Debian BTS against tuxtype-data-non-free</li> 
-	<li><a href="http://bugs.debian.org/tuxmath"></a>bugs in the Debian BTS against tuxmath</ul></li>
-		
-	http://svn.debian.org/wsvn/tux4kids    svn://svn.debian.org/tux4kids/
+	<li>Subversion source code repository for tuxtype and tuxmath: <a href="http://svn.debian.org/wsvn/tux4kids">browsable</a> or <a href="svn://svn.debian.org/tux4kids/"></a>svn://svn.debian.org/tux4kids/</li>
+	<li><a href="http://bugs.debian.org/tuxtype"></a>Bugs in the Debian BTS against tuxtype</li> 
+	<li><a href="http://bugs.debian.org/tuxtype-data-nonfree"></a>Bugs in the Debian BTS against tuxtype-data-non-free</li> 
+	<li><a href="http://bugs.debian.org/tuxmath"></a>Bugs in the Debian BTS against tuxmath</ul></li>
 </ul>
 
 
