@@ -120,19 +120,19 @@ fclose($handle);
 echo $contents; } ?>
 <p>Welcome to the current home page for <b><i>Tux Typing</i></b> and 
 <b><i>Tux, Of Math Command</i></b>.  Both projects are actively being developed,
-and downloads are available at this site (see below). As you likely can tell, we 
+and downloads are available at this site (see below).</p>
+<p>As you likely can tell, we 
  need someone with some time and web development skills to work on this page.  Our
  efforts have been going into development of the programs themselves.  If you are
-interested in helping, contact us at <a href="mailto:tuxmath-devel@lists.sourceforge.net?subject=Website%20help">
-tuxmath-devel@lists.sourceforge.net</a> </p>
+interested in helping, please contact us via the mailing lists below.
+</p>
 <p>
 If you run Debian simply run
 <pre>apt-get install tuxmath tuxtype tuxtype-data-nonfree</pre>
 </p>
 
 <p>Downloads of source releases and Windows and MacOSX binaries are 
-available
-<a href="http://alioth.debian.org/frs/?group_id=31080">here.</a></p> 
+available from the <a href="http://alioth.debian.org/frs/?group_id=31080">projects download page</a> on alioth.</p>  
 
 <p><i>NEWS, 2007-11-15: </i>TuxMath 1.5.8 has just been released. </p>
 
@@ -153,8 +153,9 @@ packages are now available in the "Sid/Unstable" branch.
 <ul>
 	<li>Subversion source code repository for tuxtype and tuxmath: <a href="http://svn.debian.org/wsvn/tux4kids">browsable</a> or <a href="svn://svn.debian.org/tux4kids/">svn://svn.debian.org/tux4kids/</a></li>
 	<li>browsable archive of the <a href="http://lists.alioth.debian.org/pipermail/tux4kids-commits/">svn commit mailinglist</a></li>
-	<li>browsable archive of the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=tuxmath-devel">tuxmath-devel mailinglist</a>(which is also used for tuxtype)</li>
-		<li><a href="http://bugs.debian.org/tuxtype">Bugs in the Debian BTS against tuxtype</a></li> 
+	<li>browsable archive of the <a href="http://lists.alioth.debian.org/pipermail/tux4kids-tuxtype-dev/">tuxtype devel mailinglist</a></li>
+	<li>browsable archive of the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=tuxmath-devel">tuxmath-devel mailinglist</a></li>
+	<li><a href="http://bugs.debian.org/tuxtype">Bugs in the Debian BTS against tuxtype</a></li> 
 	<li><a href="http://bugs.debian.org/tuxtype-data-nonfree">Bugs in the Debian BTS against tuxtype-data-non-free</a></li> 
 	<li><a href="http://bugs.debian.org/tuxmath">Bugs in the Debian BTS against tuxmath</a></li>
 </ul>
