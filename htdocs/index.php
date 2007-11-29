@@ -133,6 +133,7 @@ If you run Debian simply run
 
 <p>Downloads of source releases and Windows and MacOSX binaries are 
 available from the <a href="http://alioth.debian.org/frs/?group_id=31080">projects download page</a> on alioth.</p>  
+<p><i>NEWS, 2007-11-29: </i>Release of TuxType 1.5.16. This release adds new themes for the Czech and Wolof languages (thanks to Jaroslav Krejčí and Issa Dominique Rochefort, respectively), as well as some minor code changes.  Importantly, there is a possible bugfix that hopes to address problems with non-ASCII keyboard input not being recognized. This potential fix needs to be tested.</p>
 
 <p><i>NEWS, 2007-11-15: </i>TuxMath 1.5.8 has just been released. </p>
 
