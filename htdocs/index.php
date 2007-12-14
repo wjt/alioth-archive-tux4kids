@@ -128,7 +128,7 @@ interested in helping, please contact us via the mailing lists below.
 </p>
 <p>
 If you run Debian simply run
-<pre>apt-get install tuxmath tuxtype tuxtype-data-nonfree</pre>
+<pre>aptitude install tuxmath tuxtype tuxtype-data-nonfree</pre>
 </p>
 
 <p>Downloads of source releases and Windows and MacOSX binaries are 
