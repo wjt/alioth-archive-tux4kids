@@ -196,9 +196,18 @@ echo $contents; } ?>
 				</tr>
 				<table border=0 width="100%"><tr><td bgcolor="#EAECEF"><a href="http://alioth.debian.org/tracker/?group_id=31080"><img src="http://alioth.debian.org/themes/gforge/images/ic/tracker20g.png" alt="Tracker" border="0" width="20" height="20" /> Tracker</a><br /><em>There are no public trackers available</em>
 				<hr size="1" />
-					Subversion source code repository for tuxtype and tuxmath: <a href="http://svn.debian.org/wsvn/tux4kids">browsable</a> or <a href="svn://svn.debian.org/tux4kids/">svn://svn.debian.org/tux4kids/</a>
+					<ul><li>SVN repository for tuxtype and tuxmath: 
+					  <ul>
+					   <li><a href="http://svn.debian.org/wsvn/tux4kids">browsable</a></li>
+					   <li><a href="svn://svn.debian.org/tux4kids/">svn://svn.debian.org/tux4kids/</a></li>
+					  </ul>
+					 </li>
+					</ul>
 				<hr size="1" />
-	browsable archive of the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=tuxmath-devel">tuxmath-devel mailinglist</a> (see above for more mailinglists)
+				 <ul>
+				  <li>browsable archive of the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=tuxmath-devel">tuxmath-devel mailinglist</a></li>
+				  <li>(see above for more mailinglists)</li>
+				 </ul>
 				<hr size="1" />
 				<ul>
 				  <li><a href="http://bugs.debian.org/tuxtype">Bugs in the Debian BTS against tuxtype</a></li>
