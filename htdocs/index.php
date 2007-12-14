@@ -121,6 +121,12 @@ echo $contents; } ?>
 <p>Welcome to the current home page for <b><i>Tux Typing</i></b> and 
 <b><i>Tux, Of Math Command</i></b>.  Both projects are actively being developed,
 and downloads are available at this site (see below).</p>
+<h4>Tuxpaint</h2>
+<p>
+Please follow the link to the excellent <a href="http://www.tuxpaint.org" target="_blank">tuxpaint homepage</a>.
+</p>
+<hr>
+<h4>Tuxmath and Tuxtype</h4>
 <p>As you likely can tell, we 
  need someone with some time and web development skills to work on this page.  Our
  efforts have been going into development of the programs themselves.  If you are
@@ -132,7 +138,8 @@ If you run Debian simply run
 </p>
 
 <p>Downloads of source releases and Windows and MacOSX binaries are 
-available from the <a href="http://alioth.debian.org/frs/?group_id=31080">projects download page</a> on alioth.</p>  
+available from the <i>released files</i> link in the project summary on the right.
+</p>  
 
 <p><i>NEWS, 2007-12-12: </i>TuxMath 1.5.9 has just been released. Enhancements include a French translation courtesy of Luc Schrijvers (English, Norwegian-Nynorsk, Norwegian-Bokmal, Czech, Dutch and French are now supported on Linux), as well as a new login system to keep track of individual student progress (thanks to Tim Holy).  As of this writing, the new features are not yet implemented for the Windows build.</p>
 
@@ -152,26 +159,6 @@ system and corrections of two errors in the lesson files.</p>
 and its derivatives, recent TuxMath (1.5.8) and TuxType (1.5.15) 
 packages are now available in the "Sid/Unstable" branch.
 </p>
-
-<p><h3>Links</h4>
-<ul>
-	<li>Subversion source code repository for tuxtype and tuxmath: <a href="http://svn.debian.org/wsvn/tux4kids">browsable</a> or <a href="svn://svn.debian.org/tux4kids/">svn://svn.debian.org/tux4kids/</a></li>
-	<li>browsable archive of the <a href="http://lists.alioth.debian.org/pipermail/tux4kids-commits/">svn commit mailinglist</a></li>
-	<li>browsable archive of the <a href="http://lists.alioth.debian.org/pipermail/tux4kids-tuxtype-dev/">tuxtype devel mailinglist</a></li>
-	<li>browsable archive of the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=tuxmath-devel">tuxmath-devel mailinglist</a></li>
-	<li><a href="http://bugs.debian.org/tuxtype">Bugs in the Debian BTS against tuxtype</a></li> 
-	<li><a href="http://bugs.debian.org/tuxtype-data-nonfree">Bugs in the Debian BTS against tuxtype-data-non-free</a></li> 
-	<li><a href="http://bugs.debian.org/tuxmath">Bugs in the Debian BTS against tuxmath</a></li>
-</ul>
-</p>
-
-<hr>
-<h2>Tuxpaint</h2>
-<p>
-Please follow the link to the excellent <a href="http://www.tuxpaint.org" target="_blank">tuxpaint homepage</a>.
-</p>
-<hr>
-
 
 <!-- ?php if ($handle=fopen('http://'.$domain.'/export/projnews.php?group_name='.$group_name,'r')){
 $contents = '';
@@ -207,6 +194,17 @@ echo $contents; } ?>
 
 					</td>
 				</tr>
+				<tr><td><p>
+					Subversion source code repository for tuxtype and tuxmath: <a href="http://svn.debian.org/wsvn/tux4kids">browsable</a> or <a href="svn://svn.debian.org/tux4kids/">svn://svn.debian.org/tux4kids/</a>
+				<tr><td><p>
+				</p></td></tr>
+	browsable archive of the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=tuxmath-devel">tuxmath-devel mailinglist</a> (see above for more mailinglists)
+				<tr><td><p>
+				</p></td></tr>
+					<a href="http://bugs.debian.org/tuxtype">Bugs in the Debian BTS against tuxtype</a>
+					<a href="http://bugs.debian.org/tuxtype-data-nonfree">Bugs in the Debian BTS against tuxtype-data-non-free</a>
+					<a href="http://bugs.debian.org/tuxmath">Bugs in the Debian BTS against tuxmath</a>
+				</p></td></tr>
 			</table>
 		</td></tr>
 		</table><p>&nbsp;</p>
