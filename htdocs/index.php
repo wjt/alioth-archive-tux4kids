@@ -196,11 +196,11 @@ echo $contents; } ?>
 				</tr>
 				<tr><td><p>
 					Subversion source code repository for tuxtype and tuxmath: <a href="http://svn.debian.org/wsvn/tux4kids">browsable</a> or <a href="svn://svn.debian.org/tux4kids/">svn://svn.debian.org/tux4kids/</a>
-				<tr><td><p>
 				</p></td></tr>
+				<tr><td><p>
 	browsable archive of the <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=tuxmath-devel">tuxmath-devel mailinglist</a> (see above for more mailinglists)
-				<tr><td><p>
 				</p></td></tr>
+				<tr><td><p>
 					<a href="http://bugs.debian.org/tuxtype">Bugs in the Debian BTS against tuxtype</a>
 					<a href="http://bugs.debian.org/tuxtype-data-nonfree">Bugs in the Debian BTS against tuxtype-data-non-free</a>
 					<a href="http://bugs.debian.org/tuxmath">Bugs in the Debian BTS against tuxmath</a>
