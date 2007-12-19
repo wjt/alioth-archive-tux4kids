@@ -141,7 +141,7 @@ available from the <i>released files</i> link in the project summary on the righ
 <hr>
 <h5>News</h5>
 
-<p><i>NEWS, 2007-12-12: </i>TuxMath 1.6.0 has just been released. The major advance is successful native language support for Windows users. All of the languages supported by the Linux build (English, Norwegian-Nynorsk, Norwegian-Bokmal, Czech, Dutch and French) are now available under Window as well. With full Gettext support now implemented for both platforms, we would greatly welcome translations to other (human) languages. Email us at <a href="mailto:tuxmath-devel@lists.sourceforge.net&subject=TuxMath%20Translation">tuxmath-devel@lists.sourceforge.net</a> if interested.</p>
+<p><i>NEWS, 2007-12-12: </i>TuxMath 1.6.0 has just been released. The major advance is successful native language support for Windows users. All of the languages supported by the Linux build (English, Norwegian-Nynorsk, Norwegian-Bokmal, Czech, Dutch and French) are now available under Windows as well. With full Gettext support now implemented for both platforms, we would greatly welcome translations to other (human) languages. Email us at <a href="mailto:tuxmath-devel@lists.sourceforge.net?&subject=TuxMath%20Translation">tuxmath-devel@lists.sourceforge.net</a> if interested.</p>
 
 <p><i>NEWS, 2007-12-12: </i>TuxMath 1.5.9 has just been released. Enhancements include a French translation courtesy of Luc Schrijvers (English, Norwegian-Nynorsk, Norwegian-Bokmal, Czech, Dutch and French are now supported on Linux), as well as a new login system to keep track of individual student progress (thanks to Tim Holy).  As of this writing, the new features are not yet implemented for the Windows build.</p>
 
