@@ -189,9 +189,9 @@ echo $contents; } ? -->
 				<tr align="left">
 					<td colspan="2">
 					<ul><li><a ref="index.php">Project homepage</a></li></ul>
+	                                <hr size="1" />
 					</td>
 				</tr>
-                                <hr size="1" />
 				<tr align="left">
 					<td colspan="2">
 
