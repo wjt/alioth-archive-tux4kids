@@ -183,13 +183,14 @@ echo $contents; } ? -->
 		<table cellspacing="0" cellpadding="1" width="100%" border="0" bgcolor="#d5d5d7">
 		<tr><td>
 			<table cellspacing="0" cellpadding="2" width="100%" border="0" bgcolor="#eaecef">
-				<table border=0 width="100%"><tr><td bgcolor="#EAECEF">
+				<tr style="background-color:#d5d5d7" align="center">
+					<td colspan="2"><span class="titlebar">Project Summary</span></td>
+				</tr>
 				<tr align="left">
 					<td colspan="2">
 					<ul><li><a ref="index.php">Project homepage</a></li></ul>
 					</td>
 				</tr>
-				</table>
                                 <hr size="1" />
 				<tr align="left">
 					<td colspan="2">
