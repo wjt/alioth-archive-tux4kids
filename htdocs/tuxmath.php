@@ -191,6 +191,7 @@ echo $contents; } ? -->
 					<ul><li><a ref="index.php">Project homepage</a></li></ul>
 					</td>
 				</tr>
+                                <hr size="1" />
 				<tr align="left">
 					<td colspan="2">
 
