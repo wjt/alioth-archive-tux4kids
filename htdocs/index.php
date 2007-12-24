@@ -199,7 +199,6 @@ echo $contents; } ?>
 					</td>
 				</tr>
 				<table border=0 width="100%"><tr><td bgcolor="#EAECEF">
-				<hr size="1" />
 					<ul><li>SVN repository for tuxtype and tuxmath: 
 					  <ul>
 					   <li><a href="http://svn.debian.org/wsvn/tux4kids">browsable</a></li>
