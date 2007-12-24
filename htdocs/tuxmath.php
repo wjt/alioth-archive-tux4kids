@@ -188,6 +188,11 @@ echo $contents; } ? -->
 				</tr>
 				<tr align="left">
 					<td colspan="2">
+					<a ref="index.php">Project homepage</a>
+					</td>
+				</tr>
+				<tr align="left">
+					<td colspan="2">
 
 <?php if($handle=fopen('http://'.$domain.'/export/projhtml.php?group_name='.$group_name,'r')){
 $contents = '';
@@ -201,7 +206,7 @@ echo $contents; } ?>
 
 					</td>
 				</tr>
-				<table border=0 width="100%"><tr><td bgcolor="#EAECEF"><a href="http://alioth.debian.org/tracker/?group_id=31080"><img src="http://alioth.debian.org/themes/gforge/images/ic/tracker20g.png" alt="Tracker" border="0" width="20" height="20" /> Tracker</a><br /><em>There are no public trackers available</em>
+				<table border=0 width="100%"><tr><td bgcolor="#EAECEF">
 				<hr size="1" />
 					<ul><li>SVN repository for tuxtype and tuxmath: 
 					  <ul>
