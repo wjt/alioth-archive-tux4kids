@@ -118,50 +118,53 @@ while (!feof($handle)) {
 }
 fclose($handle);
 echo $contents; } ?>
-<p>Welcome to the current home page for <b><i>Tux Typing</i></b> and 
-<b><i>Tux, Of Math Command</i></b>.  Both projects are actively being developed,
-and downloads are available at this site (see below).</p> 
-<p>Here you can see <a href="tuxmath.php">screenshots of TuxMath</a> in action!</p>
-<p>For <b><i>Tuxpaint</i></b>
-please follow the link to the excellent <a href="http://www.tuxpaint.org" target="_blank">tuxpaint homepage</a>.
-</p>
-<hr>
-<h4>Tuxmath and Tuxtype</h4>
-<p>As you likely can tell, we 
- need someone with some time and web development skills to work on this page.  Our
- efforts have been going into development of the programs themselves.  If you are
-interested in helping, please contact us via the mailing lists below.
+<p>
+<b>TuxMath</b> is an arcade game that helps kids practice their math facts. The main 
+goal is to make it effective and fun!
 </p>
 <p>
-If you run Debian simply run
-<pre>aptitude install tuxmath tuxtype tuxtype-data-nonfree</pre>
+Your mission is to protect your penguin's igloos from the math 
+problem "comets" that drop out of the sky:
+<img src="images/tuxmath/game_play.jpg">
 </p>
+<p>
 
-<p>Downloads of source releases and Windows and MacOSX binaries are 
-available from the <i>released files</i> link in the project summary on the right.
-</p>  
+TuxMath contains a help system that teaches new players how to stop those 
+pesky comets:
+<img src="images/tuxmath/help.jpg">
+</p>
+<p>
+
+TuxMath lets you choose from "Training Academy" lessons that focus on a 
+particular set of facts, or choose "Arcade Games" that test your skills:
+<img src="images/tuxmath/menu.jpg">
+<img src="images/tuxmath/lessons.jpg">
+</p>
+<p>
+The Training Academy lessons allow the players to pause the game and control 
+its speed, and offer a chance to build confidence with new facts. Players 
+earn gold stars as they complete particular lessons. With the arcade games, 
+the players have to answer problems more and more quickly, with only their 
+math skills to save them!
+</p>
+<p>
+
+For the arcade games, players can compete to earn a place on a high score 
+table:
+<img src="images/tuxmath/highscores.jpg">
+</p>
+<p>
+
+Optionally, you can configure TuxMath so that multiple users can have their 
+own account:
+<img src="images/tuxmath/login.jpg">
+</p>
+<p>
+This feature may be especially useful for schools.
+</p>
 <hr>
-<h5>News</h5>
-
-<p><i>NEWS, 2007-12-12: </i>TuxMath 1.6.0 has just been released. The major advance is successful native language support for Windows users. All of the languages supported by the Linux build (English, Norwegian-Nynorsk, Norwegian-Bokmal, Czech, Dutch and French) are now available under Windows as well. With full Gettext support now implemented for both platforms, we would greatly welcome translations to other (human) languages. Email us at <a href="mailto:tuxmath-devel@lists.sourceforge.net?&subject=TuxMath%20Translation">tuxmath-devel@lists.sourceforge.net</a> if interested.</p>
-
-<p><i>NEWS, 2007-12-12: </i>TuxMath 1.5.9 has just been released. Enhancements include a French translation courtesy of Luc Schrijvers (English, Norwegian-Nynorsk, Norwegian-Bokmal, Czech, Dutch and French are now supported on Linux), as well as a new login system to keep track of individual student progress (thanks to Tim Holy).  As of this writing, the new features are not yet implemented for the Windows build.</p>
-
-<p><i>NEWS, 2007-11-29: </i>Release of TuxType 1.5.16. This release adds new themes for the Czech and Wolof languages (thanks to Jaroslav Krejčí and Issa Dominique Rochefort, respectively), as well as some minor code changes.  Importantly, there is a possible bugfix that hopes to address problems with non-ASCII keyboard input not being recognized. This potential fix needs to be tested.</p>
-
-<p><i>NEWS, 2007-11-15: </i>TuxMath 1.5.8 has just been released. </p>
-
-<p><i>NEWS, 2007-10-29: </i>TuxMath 1.5.7 has just been released.  This version features many new graphics
-and refinements of the menu system, for a more polished and professional appearance. You can 
-now earn "gold stars" by completing the lessons in the Math Command Training Academy.  The Hall
-of Fame (high score table) is fully operational. The code also includes a bug fix in the menu 
-system and corrections of two errors in the lesson files.</p>
-
-<p>There is also an i386 .rpm for TuxMath 1.5.4. </p>
-
-<p>For users of Debian 
-and its derivatives, recent TuxMath (1.5.8) and TuxType (1.5.15) 
-packages are now available in the "Sid/Unstable" branch.
+<p>
+<a href="index.php">Back to the tux4kids homepage</a>
 </p>
 
 <!-- ?php if ($handle=fopen('http://'.$domain.'/export/projnews.php?group_name='.$group_name,'r')){
