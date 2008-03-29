@@ -143,7 +143,11 @@ available from the <i>released files</i> link in the project summary on the righ
 <hr>
 <h5>News</h5>
 
-<p><i><b>NEWS, 2008-02-04: </i>Improved MacOSX Support!</b> (but still not perfect).  TuxMath 1.6.1 is now available for download as a <a href="http://alioth.debian.org/frs/download.php/2310/tuxmath_w_fonts-1.6.1.tar.gz" target="_blank">gzipped tar source archive</a> and as an <a href="http://alioth.debian.org/frs/download.php/2309/tuxmath-1.6.1-win32-installer.exe" target="_blank">executable Win32 installer</a>.</p>
+<p><i><b>NEWS, 2008-03-29: </i>TuxType 1.5.17 has been released - the first TuxType release in a few months.</b> This release includes a new Nepali theme (contributed by Vikal Acharya and Shakeel Shrestha), as well as some visual enhancements to the menu interface.</p>
+
+<p>For Mac users, also of note is that TuxMath has been added to the excellent <a href="http://www.macports.org" target="_blank">MacPorts</a> project. Users of MacPorts can install TuxMath with a simple "sudo port install tuxmath" at the command line. Work is ongoing to add TuxType to MacPorts as well, and to get an automated binary build process for both programs on OS-X.</p>
+
+<p><i><b>NEWS, 2008-02-04:<p>For Unix-y MacOSX users, the good news is that the source archive now builds and installs correctly on MacOSX 10.5 (Leopard) with a simple "./configure; make; sudo make install", as long as you have the required libraries.  For "the rest of us", we hope to have a simple MacOSX .dmg image file in the near future.</p> </i>Improved MacOSX Support!</b> (but still not perfect).  TuxMath 1.6.1 is now available for download as a <a href="http://alioth.debian.org/frs/download.php/2310/tuxmath_w_fonts-1.6.1.tar.gz" target="_blank">gzipped tar source archive</a> and as an <a href="http://alioth.debian.org/frs/download.php/2309/tuxmath-1.6.1-win32-installer.exe" target="_blank">executable Win32 installer</a>.</p>
 
 <p>For Unix-y MacOSX users, the good news is that the source archive now builds and installs correctly on MacOSX 10.5 (Leopard) with a simple "./configure; make; sudo make install", as long as you have the required libraries.  For "the rest of us", we hope to have a simple MacOSX .dmg image file in the near future.</p>
 
