@@ -143,6 +143,10 @@ available from the <i>released files</i> link in the project summary on the righ
 <hr>
 <h5>News</h5>
 
+<p><i><b>NEWS, 2008-03-30: </i>TuxType won FOSS india award</b>
+
+Like last year, tux4kids is participating in the Google Summer of Code. Last years project, adding indic language support to tuxtype, <a href="http://mobin-m.livejournal.com/4705.html">won the FOSS indea 2008</a> ward. Congratulationss to the team writing this code!</p>
+
 <p><i><b>NEWS, 2008-03-29: </i>TuxType 1.5.17 has been released - the first TuxType release in a few months.</b> This release includes a new Nepali theme (contributed by Vikal Acharya and Shakeel Shrestha), as well as some visual enhancements to the menu interface.</p>
 
 <p>For Mac users, also of note is that TuxMath has been added to the excellent <a href="http://www.macports.org" target="_blank">MacPorts</a> project. Users of MacPorts can install TuxMath with a simple "sudo port install tuxmath" at the command line. Work is ongoing to add TuxType to MacPorts as well, and to get an automated binary build process for both programs on OS-X.</p>
