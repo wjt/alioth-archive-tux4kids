@@ -122,8 +122,8 @@ echo $contents; } ?>
 <b><i>Tux, Of Math Command</i></b>.  Both projects are actively being developed,
 and downloads are available at this site (see below).</p> 
 <p>Here you can see <a href="tuxmath.php">screenshots of TuxMath</a> in action!</p>
-<p>For <b><i>Tuxpaint</i></b>
-please follow the link to the excellent <a href="http://www.tuxpaint.org" target="_blank">tuxpaint homepage</a>.
+<p>For <b><i>Tux Paint</i></b>
+please follow the link to the excellent <a href="http://www.tuxpaint.org" target="_blank">Tux Paint homepage</a>.
 </p>
 <hr>
 <h4>Tuxmath and Tuxtype</h4>
