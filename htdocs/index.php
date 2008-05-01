@@ -142,10 +142,11 @@ available from the <i>released files</i> link in the project summary on the righ
 </p>  
 <hr>
 <h5>News</h5>
+<p><i><b>NEWS, 2008-05-01: </i>TuxMath 1.6.2 has been released. The most important advance is a MacOSX disk image (.dmg) binary file.  This should work on both Intel- and PPC-based Macs running OSX 10.4 or 10.5.  For now, internationalization is not supported in the Mac build.  For Linux and Windows, the release includes new translations for Spanish, Hungarian, and Swedish.  (Note that the source package *does* build correctly on OSX if you have the needed libraries, and Gettext works correctly).  This release also fixes an annoying crash-on-exit bug.</p>
 
 <p><i><b>NEWS, 2008-03-30: </i>TuxType won FOSS india award</b>
 
-Like last year, tux4kids is participating in the Google Summer of Code. Last years project, adding indic language support to tuxtype, <a href="http://mobin-m.livejournal.com/4705.html">won the FOSS indea 2008</a> ward. Congratulationss to the team writing this code!</p>
+Like last year, Tux4Kids is participating in the Google Summer of Code. Last year's project, the addition of Indic language support to TuxType, <a href="http://mobin-m.livejournal.com/4705.html">won the FOSS India 2008</a> award. Congratulationss to the team writing this code!</p>
 
 <p><i><b>NEWS, 2008-03-29: </i>TuxType 1.5.17 has been released - the first TuxType release in a few months.</b> This release includes a new Nepali theme (contributed by Vikal Acharya and Shakeel Shrestha), as well as some visual enhancements to the menu interface.</p>
 
