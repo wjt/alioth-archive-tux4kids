@@ -155,6 +155,11 @@ table:
 </p>
 <p>
 
+Tuxmath is available in several different languages, including some that have right-to-left text:
+<img src="images/tuxmath/intl.jpg">
+</p>
+<p>
+
 Optionally, you can configure TuxMath so that multiple users can have their 
 own account:
 <img src="images/tuxmath/login.jpg">
