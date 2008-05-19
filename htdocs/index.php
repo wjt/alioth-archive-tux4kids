@@ -142,6 +142,8 @@ available from the <i>released files</i> link in the project summary on the righ
 </p>  
 <hr>
 <h5>News</h5>
+<p><i><b>NEWS, 2008-05-19: </i>TuxMath 1.6.3 has been released, with much more extensive internationalization. The Linux build now uses SDL_Pango to allow right-to-left rendering for Arabic and Hebrew, and font selection for display of Asian and Eastern European characters.  Many additional translations have been added, mostly from Ubuntu's Launchpad project.  Under Linux, TuxMath now supports 21 languages!  However, we do not yet have SDL_Pango functioning in the Windows or MacOSX build.  We do, however, have GNU Gettext itself working on all platforms, meaning that Western European translations work in Windows and the Mac.</p>
+
 <p><i><b>NEWS, 2008-05-01: </i>TuxMath 1.6.2 has been released. The most important advance is a MacOSX disk image (.dmg) binary file.  This should work on both Intel- and PPC-based Macs running OSX 10.4 or 10.5.  For now, internationalization is not supported in the Mac build.  For Linux and Windows, the release includes new translations for Spanish, Hungarian, and Swedish.  (Note that the source package *does* build correctly on OSX if you have the needed libraries, and Gettext works correctly).  This release also fixes an annoying crash-on-exit bug.</p>
 
 <p><i><b>NEWS, 2008-03-30: </i>TuxType won FOSS india award</b>
