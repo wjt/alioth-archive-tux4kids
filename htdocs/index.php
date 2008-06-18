@@ -178,10 +178,13 @@ system and corrections of two errors in the lesson files.</p>
 
 <p>There is also an i386 .rpm for TuxMath 1.5.4. </p>
 
+<hr> 
+
 <p>For users of Debian 
-and its derivatives, recent TuxMath (1.5.8) and TuxType (1.5.15) 
+and its derivatives, recent TuxMath (1.6.3) and TuxType (1.5.17) 
 packages are now available in the "Sid/Unstable" branch.
 </p>
+
 
 <!-- ?php if ($handle=fopen('http://'.$domain.'/export/projnews.php?group_name='.$group_name,'r')){
 $contents = '';
