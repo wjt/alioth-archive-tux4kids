@@ -142,7 +142,17 @@ available from the <i>released files</i> link in the project summary on the righ
 </p>  
 <hr>
 <h5>News</h5>
+
+<p><i><b>NEWS, 2008-12-02: </i>TuxMath 1.7.0 and TuxType 1.7.0 Coming Soon!</b> The Google Summer of Code was highly productive for Tux4Kids, with major enhancements to both programs courtesy of Brendan Luchen (TuxMath), Jesus Mager (TuxMath), Sreyas Kurumanghat (Tux Typing), and Mobin Mohan (Tux Typing), as well as their respective mentors.  Both programs now run fullscreen at the native resolution from the operating system, rather than just 640x480.  This greatly improves the appearance, especially on small devices like the OLPC XO laptop.  TuxMath features an entirely new game activity, "Factoroids", which provides fun review of factorization and reduction of fractions while clearing away rocks floating in space.  There also is a new, more flexible question-generation engine that allows questions with multiple operands for order-of-operations review.  Some of the individual lessons are linked together in "Campaign Mode" that places Tux's efforts in an overall story line.  For Tux Typing, enhancements include a completely reworked phrase practice activity, with graphic keyboard hints and on-screen display of accuracy and typing speed.  Tux Typing also now uses GNU gettext for internationalization, making it easier to add translations.</p>
+
+<p>The programs are currently in "string freeze", meaning that the displayed text will not be changed before the next release.  This is the time for translators to update the po files, and also is a good time to add new translations if you are so motivated.  Go to the <a href="http://svn.debian.org/wsvn/tux4kids" target="_blank">browsable subversion repository</a> and navigate to the po directory, (e.g. tuxmath/trunk/po) to find the po files for each language, as well as the po template file (e.g. tuxmath.pot) to be used for new translations.  The updated files can be sent our lists at <a href="mailto:tuxmath-devel@lists.sourceforge.net?&subject=TuxMath%20Translation">tuxmath-devel@lists.sourceforge.net</a> and <a href="mailto:tux4kids-tuxtype-dev@lists.alioth.debian.org  
+?&subject=TuxType%20Translation">tux4kids-tuxtype-dev@lists.alioth.debian.org  
+</a>.</p>
+
+<p>Source and binary releases for TuxMath 1.7.0 and TuxType 1.7.0 will be posted here on Monday, 9 December 2008.  Given the amount of new code, we do not expect them to be bug-free, but should be very usable.  We expect to make another release or two fairly shortly thereafter following some bug-squashing.</p>
+
 <p><i><b>NEWS, 2008-07-06: </i></b>A <a href="http://www.youtube.com/watch?v=D20yCEDye2Q" target="_blank">video of a kid playing tuxmath</a> is available on the web. Fun!</p>
+
 <p><i><b>NEWS, 2008-05-19: </i>TuxMath 1.6.3 has been released, with much more extensive internationalization. The Linux build now uses SDL_Pango to allow right-to-left rendering for Arabic and Hebrew, and font selection for display of Asian and Eastern European characters.  Many additional translations have been added, mostly from Ubuntu's Launchpad project.  Under Linux, TuxMath now supports 21 languages!  However, we do not yet have SDL_Pango functioning in the Windows or MacOSX build.  We do, however, have GNU Gettext itself working on all platforms, meaning that Western European translations work in Windows and the Mac.</p>
 
 <p><i><b>NEWS, 2008-05-01: </i>TuxMath 1.6.2 has been released.</b> The most important advance is a MacOSX disk image (.dmg) binary file.  This should work on both Intel- and PPC-based Macs running OSX 10.4 or 10.5.  For now, internationalization is not supported in the Mac build.  For Linux and Windows, the release includes new translations for Spanish, Hungarian, and Swedish.  (Note that the source package *does* build correctly on OSX if you have the needed libraries, and Gettext works correctly).  This release also fixes an annoying crash-on-exit bug.</p>
@@ -163,21 +173,6 @@ Like last year, Tux4Kids is participating in the Google Summer of Code. Last yea
 
 <p>On the TuxType front, we now offer current binary builds of TuxType 1.5.16 for <a href="http://alioth.debian.org/frs/download.php/2301/tuxtype_w_fonts-1.5.16-MACOSX10.4+.dmg" target="_blank">Intel-</a> and <a href="http://alioth.debian.org/frs/download.php/2300/Tuxtype_w_fonts-1.5.16-MACOS10.3PPC.dmg" target="_blank">PPC-</a>based Macs, thanks to the efforts of Alex Shorthouse.</p>
 
-<p><i><b>NEWS, 2007-12-12: </i>TuxMath 1.6.0 has just been released.</b> The major advance is successful native language support for Windows users. All of the languages supported by the Linux build (English, Norwegian-Nynorsk, Norwegian-Bokmal, Czech, Dutch and French) are now available under Windows as well. With full Gettext support now implemented for both platforms, we would greatly welcome translations to other (human) languages. Email us at <a href="mailto:tuxmath-devel@lists.sourceforge.net?&subject=TuxMath%20Translation">tuxmath-devel@lists.sourceforge.net</a> if interested.</p>
-
-<p><i><b>NEWS, 2007-12-12: </i>TuxMath 1.5.9 has just been released.</b> Enhancements include a French translation courtesy of Luc Schrijvers (English, Norwegian-Nynorsk, Norwegian-Bokmal, Czech, Dutch and French are now supported on Linux), as well as a new login system to keep track of individual student progress (thanks to Tim Holy).  As of this writing, the new features are not yet implemented for the Windows build.</p>
-
-<p><i><b>NEWS, 2007-11-29: </i>Release of TuxType 1.5.16.</b> This release adds new themes for the Czech and Wolof languages (thanks to Jaroslav Krejčí and Issa Dominique Rochefort, respectively), as well as some minor code changes.  Importantly, there is a possible bugfix that hopes to address problems with non-ASCII keyboard input not being recognized. This potential fix needs to be tested.</p>
-
-<p><i><b>NEWS, 2007-11-15: </i>TuxMath 1.5.8 has just been released.</b> </p>
-
-<p><i><b>NEWS, 2007-10-29: </i>TuxMath 1.5.7 has just been released.</b>  This version features many new graphics
-and refinements of the menu system, for a more polished and professional appearance. You can 
-now earn "gold stars" by completing the lessons in the Math Command Training Academy.  The Hall
-of Fame (high score table) is fully operational. The code also includes a bug fix in the menu 
-system and corrections of two errors in the lesson files.</p>
-
-<p>There is also an i386 .rpm for TuxMath 1.5.4. </p>
 
 <hr> 
 
