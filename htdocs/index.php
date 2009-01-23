@@ -143,6 +143,8 @@ available from the <i>released files</i> link in the project summary on the righ
 <hr>
 <h5>News</h5>
 
+<p><i><b>NEWS, 2008-12-08: </i>Updated releases of TuxMath and Tux Typing </b>TuxMath 1.7.1 and Tux Typing 1.7.2 are available for download. Tux Typing 1.7.2 addresses several important issues with the previous release. It has been tested on several Linux distros and on Windows XP, and the recent problems appear to be resolved. Anyone who tried unsuccessfully to use the 1.7.0 release of Tux Typing should definitely check this one out.  For TuxMath, 1.7.1 includes a number of less critical fixes and enhancements. The most important change is correction of many of the lesson files so they should now reliably generate the intended questions.</p>
+
 <p><i><b>NEWS, 2008-12-08: </i>Tux Typing 1.7.0 Released!</b>The Tux4Kids team is pleased to announce the release of TuxType 1.7.0! The usual source tarball and Win32 installer are available for download as of this writing. This release reflects a great deal of work by our Google Summer of Code students, Mobin Mohan and Sreyas Kurumanghat, as their mentors and the rest of the Tux Typing contributors. The most important enhancements are listed below.  Also, themes and translations for several additional Indic languages have been added.</p>
 
 <p><i><b>NEWS, 2008-12-08: </i>TuxMath 1.7.0 Released!</b>Source tar.gz archives and executable Win32 installer for TuxMath 1.7.0 are available for download on our <a href="http://alioth.debian.org/project/showfiles.php?group_id=31080">Released Files</a> page. See below for a description of the new features.  Tux Typing 1.7.0 should be released within the next day or so.</p>
