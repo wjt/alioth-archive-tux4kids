@@ -141,7 +141,13 @@ If you run Debian simply run
 available from the <i>released files</i> link in the project summary on the right.
 </p>  
 <hr>
+
 <h5>News</h5>
+<p><i><b>NEWS, 2009-02-26: </i>Current RPMs available for multiple distros! </b>Tux4Kids is now an active participant in the <a href="http://build.opensuse.org">OpenSUSE Build Service</a>, which provides the infrastructure for automated package building 
+for most linux distributions.  Tuxmath and Tuxtype packages can be located through the build service <a href="http://software.opensuse.org/search">search page </a>. This search page will locate both the most recent stable
+ releases, located in the OpenSUSE Education project, as well as "preview" releases, located in my home project but available 
+to anyone.  The "preview" packages are now generated almost automatically and will track the status of the Subversion repository quite closely.</p>
+<p>Currently supported distributions include OpenSUSE (10.3, 11.0, 11.1, Factory); Fedora 9 and 10; and Mandriva 2008 and 2009.  All of these packages have been built for both i586 and x86_64 architectures.  Testing is needed for all of the preview packages - please report any issues to <a href="mailto:tuxmath-devel@lists.sourceforge.net">tuxmath-devel@lists.sourceforge.net</a>.  The Build System also supports .deb packaging for recent Debian and Ubuntu releases, but these builds have not yet been implemented.</p>
 
 <p><i><b>NEWS, 2008-12-08: </i>Updated releases of TuxMath and Tux Typing </b>TuxMath 1.7.1 and Tux Typing 1.7.2 are available for download. Tux Typing 1.7.2 addresses several important issues with the previous release. It has been tested on several Linux distros and on Windows XP, and the recent problems appear to be resolved. Anyone who tried unsuccessfully to use the 1.7.0 release of Tux Typing should definitely check this one out.  For TuxMath, 1.7.1 includes a number of less critical fixes and enhancements. The most important change is correction of many of the lesson files so they should now reliably generate the intended questions.</p>
 
