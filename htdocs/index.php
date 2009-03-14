@@ -143,6 +143,12 @@ available from the <i>released files</i> link in the project summary on the righ
 <hr>
 
 <h5>News</h5>
+<p><b><i>NEWS, 2009-03-14: </i>Tux4Kids planning to participate in GSoC 2009</b>
+Tux4Kids has submitted its application to participate in Google's Summer of Code again for 2009. We will be informed on March 18 whether our application has been accepted. Further information will be posted at that time.</p>
+
+<p><b><i>NEWS, 2009-03-14: </i>New releases of TuxMath and TuxType </b>
+TuxMath 1.7.2 and Tux Typing 1.7.4 are available for download on our File Releases page as source tarballs and Win32 installer builds.  RPM packages for most GNU/Linux distributions can be found via this <a href="http://software.opensuse.org/search">search page </a>. For Mac users, the new packages should be in MacPorts shortly, and dmg files will be posted here when built. These releases mostly reflect underlying code cleanup in advance of this year's Google Summer of Code, with only minor user-visible changes.</p>
+
 <p><i><b>NEWS, 2009-02-26: </i>Current RPMs available for multiple distros! </b>Tux4Kids is now an active participant in the <a href="http://build.opensuse.org">OpenSUSE Build Service</a>, which provides the infrastructure for automated package building 
 for most linux distributions.  Tuxmath and Tuxtype packages can be located through the build service <a href="http://software.opensuse.org/search">search page </a>. This search page will locate both the most recent stable
  releases, located in the OpenSUSE Education project, as well as "preview" releases, located in my home project but available 
