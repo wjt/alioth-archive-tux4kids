@@ -143,6 +143,9 @@ available from the <i>released files</i> link in the project summary on the righ
 <hr>
 
 <h5>News</h5>
+<p><b><i>NEWS, 2009-03-19: </i>Tux4Kids accepted for GSoC 2009!</b>
+Tux4Kids has been accepted as a participating organization for this year's Google Summer of Code. We are very excited about another phase of productive coding.  All three Tux4Kids programs (Tux Paint, Tux Math and Tux Typing) will take part again this year.  The <a href="http://socghop.appspot.com/">GSoC site</a> has full information, including the list of particating organizations and their applications for students.  The list of "Ideas" for Tux4Kids is on the GSoC site. The student application period is 23 March to 03 April.</p>
+
 <p><b><i>NEWS, 2009-03-14: </i>Tux4Kids planning to participate in GSoC 2009</b>
 Tux4Kids has submitted its application to participate in Google's Summer of Code again for 2009. We will be informed on March 18 whether our application has been accepted. Further information will be posted at that time.</p>
 
