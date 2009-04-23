@@ -49,7 +49,7 @@ echo'
 			<b>Development and coding tips</b><br />
 			Installing the required libraries (from distributor packages on Linux): be sure to install the "dev" versions as well, so that you have the header files.<br />
 			Documentation about compiling is available in the "doc" directory in trunk.<br />
-			We prefer that most development (particular for GSoC) happens in trunk, because of the difficulty of merging later; disruptive changes can have their own branch, but your work is not useful until you have merged to trunk.<br />
+			We prefer that most development (particularly for GSoC) happens in trunk, because of the difficulty of merging later; disruptive changes can have their own branch, but your work is not useful until you have merged to trunk.<br />
 			Please keep the changelog (in the doc/ directory) updated!<br />
 			For information about preparing strings appropriately for internationalization, see
 			<a href="http://www.gnu.org/software/gettext/manual/html_node/Preparing-Strings.html#Preparing-Strings">these</a> <a href="http://techbase.kde.org/Development/Tutorials/Localization/i18n_Mistakes#Pitfall_.232:_Word_Puzzles">tips</a>. TuxMath now has built-in linebreaking code (adopted from gettext) in the "linewrap" source file.<br />
