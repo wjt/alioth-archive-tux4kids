@@ -41,6 +41,10 @@ echo'
 			assuming your user name is "fred-guest". You will have to supply your password (perhaps more than once; note you can upload an SSH key to Alioth and bypass the requirement to type the password each time you make a commit).<br />
 			With this checkout, you can use the full functionality of SVN and distribute your improvements to all the developers. If you started developing with an anonymous checkout, you can manually copy any changes over to the new directory created with your Alioth account and check them in.<br />
 			<br />
+
+                        <b>Copyright</b><br />
+                        Tux4kids software is released unter the GPL2. By commiting your code you agree to licence your work under this licence as well. Please state so in the headers of the source files, including svg images. Thanks!
+                        <br />
 			
 			<b>Mailing lists</b><br />
 			In addition to the mailing lists available from the link to the left, note that the TuxMath mailing list is hosted <a href="https://lists.sourceforge.net/lists/listinfo/tuxmath-devel">here</a>.<br />
