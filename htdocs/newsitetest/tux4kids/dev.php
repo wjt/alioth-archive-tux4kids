@@ -34,11 +34,12 @@ echo'
 			
 			<b>SVN checkout (TuxMath and TuxTyping)</b><br />
 			The SVN site is hosted on <a href="http://tux4kids.alioth.debian.org/">Alioth</a> (please do not download the SourceForge SVN tree, it could be out of date). You can do an "anonymous" checkout in the following way:<br />
-			svn co svn://svn.debian.org/tux4kids/<br />
-			This will get you the source code, but you won\'t be able to check in your modifications, because you need to have an account on Alioth.<br />
-			To get a fully-function SVN checkout, <a href="http://alioth.debian.org">apply for an Alioth account</a> and wait for administrator approval. Once you have approval, do the checkout in the following way:<br />
-			svn co svn+ssh://fred-guest@svn.debian.org/svn/tux4kids<br />
-			assuming your user name is "fred-guest". You will have to supply your password (perhaps more than once; note you can upload an SSH key to Alioth and bypass the requirement to type the password each time you make a commit). With this checkout, you can use the full functionality of SVN and distribute your improvements to all the developers.<br />
+			<kbd>svn co svn://svn.debian.org/tux4kids/</kbd><br />
+			This will get you the source code, but you won\'t be able to check in your modifications, because you need to have an account on Alioth.<br /><br />
+			To get a fully-functional SVN checkout, <a href="http://alioth.debian.org">apply for an Alioth account</a> and wait for administrator approval. Once you have approval, do the checkout in the following way:<br />
+			<kbd>svn co svn+ssh://fred-guest@svn.debian.org/svn/tux4kids</kbd><br />
+			assuming your user name is "fred-guest". You will have to supply your password (perhaps more than once; note you can upload an SSH key to Alioth and bypass the requirement to type the password each time you make a commit).<br />
+			With this checkout, you can use the full functionality of SVN and distribute your improvements to all the developers. If you started developing with an anonymous checkout, you can manually copy any changes over to the new directory created with your Alioth account and check them in.<br />
 			<br />
 			
 			<b>Mailing lists</b><br />
