@@ -51,7 +51,11 @@ echo'
 			Documentation about compiling is available in the "doc" directory in trunk.<br />
 			We prefer that most development (particular for GSoC) happens in trunk, because of the difficulty of merging later; disruptive changes can have their own branch, but your work is not useful until you have merged to trunk.<br />
 			For information about preparing strings appropriately for internationalization, see
-			<a href="http://www.gnu.org/software/gettext/manual/html_node/Preparing-Strings.html#Preparing-Strings">these</a> <a href="http://techbase.kde.org/Development/Tutorials/Localization/i18n_Mistakes#Pitfall_.232:_Word_Puzzles">tips</a>. TuxMath now has built-in linebreaking code (adopted from gettext) in the "linewrap" source file.
+			<a href="http://www.gnu.org/software/gettext/manual/html_node/Preparing-Strings.html#Preparing-Strings">these</a> <a href="http://techbase.kde.org/Development/Tutorials/Localization/i18n_Mistakes#Pitfall_.232:_Word_Puzzles">tips</a>. TuxMath now has built-in linebreaking code (adopted from gettext) in the "linewrap" source file.<br />
+			<br />
+			
+			<b>Graphics</b><br />
+			Because of the impending support for <a href="http://en.wikipedia.org/wiki/Scalable_Vector_Graphics">SVG</a>, we <i>strongly</i> prefer that any new graphics files be created in SVG format. We can generate PNG files as needed from the SVGs.
 			</div>
 		</div>
 	</div>
