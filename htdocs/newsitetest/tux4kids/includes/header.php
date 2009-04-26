@@ -1,8 +1,3 @@
-</head>
-
-<body>
-	<div  align="center">
-		<div class="box">
 			<div class="header">
 			<span class="drop"><img src="images/title.png" alt="Tux4Kids logo" /><br />
 			High Quality Educational Software Alternatives

@@ -1,12 +1,11 @@
 <?php
 include ('includes/pageheader.php');
-
 echo'
-	<title>Tux4kids - Developers</title>';
-
-include ('includes/header.php');
-
-echo'
+	<title>Tux4kids - Developers</title>
+	</head>
+<body>
+	<div align="center">
+		<div class="box">
 			<div class="col1">
 				<ul class="menu">
 					<li><a href="index.php"><span>Home</span></a></li>
@@ -42,9 +41,9 @@ echo'
 			With this checkout, you can use the full functionality of SVN and distribute your improvements to all the developers. If you started developing with an anonymous checkout, you can manually copy any changes over to the new directory created with your Alioth account and check them in.<br />
 			<br />
 
-                        <b>Copyright</b><br />
-                        Tux4kids software is released under the GPL2. By commiting your code you agree to distribute your work under this license as well. Please state so in the headers of the source files, including svg images. Thanks!
-                        <br />
+               <b>Copyright</b><br />
+               Tux4kids software is released under the GPL2. By commiting your code you agree to distribute your work under this license as well. Please state so in the headers of the source files, including svg images. Thanks!
+               <br />
 			<br />
 			
 			<b>Mailing lists</b><br />
@@ -65,7 +64,9 @@ echo'
 			
 			<b>Graphics</b><br />
 			Because of the impending support for <a href="http://en.wikipedia.org/wiki/Scalable_Vector_Graphics">SVG</a>, we <i>strongly</i> prefer that any new graphics files be created in SVG format. We can generate PNG files as needed from the SVGs.
-			</div>
+			</div>';
+include ('includes/header.php');
+echo'
 		</div>
 	</div>
 </body>

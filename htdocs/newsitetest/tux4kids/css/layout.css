@@ -17,7 +17,7 @@
 	}
 	
 	.header{
-	position: relative;
+	position: absolute;
 	top: 0px;
 	left: 0px;
 	width: 100%;
@@ -33,7 +33,7 @@
 	.col1{
 	position:relative;
 	left: 0px;
-	top: 0px;
+	top: 125px;
 	height: 600px;
 	width: 175px;
 	background-color: #D3D3D3;
@@ -42,8 +42,8 @@
 	.col2{
 	position:relative;
 	left: 175px;
-	top: -600px;
-	width: 815px;
+	top: -475px;
+	width: 800px;
 	color: #000;
 	vertical-align: top;
 	background-color: #fff;
@@ -61,4 +61,20 @@
 	position: relative;
 	top: -98px;
 	float:right;
+	}
+	
+	.front {
+	border-collapse: collapse;
+	font-family: Arial;
+	}
+	
+	.front th{
+	background-color: #8bbf82;
+	font-size:15px;
+	}
+	
+	.front td{
+	background-color: #daf9e0;
+	vertical-align: top;
+	font-size:12px;
 	}
