@@ -43,21 +43,25 @@ echo'
 			<br />
 
                         <b>Copyright</b><br />
-                        Tux4kids software is released unter the GPL2. By commiting your code you agree to licence your work under this licence as well. Please state so in the headers of the source files, including svg images. Thanks!
+                        Tux4kids software is released under the GPL2. By commiting your code you agree to distribute your work under this license as well. Please state so in the headers of the source files, including svg images. Thanks!
                         <br />
+			<br />
 			
 			<b>Mailing lists</b><br />
 			In addition to the mailing lists available from the link to the left, note that the TuxMath mailing list is hosted <a href="https://lists.sourceforge.net/lists/listinfo/tuxmath-devel">here</a>.<br />
 			<br />
 			
 			<b>Development and coding tips</b><br />
-			Installing the required libraries (from distributor packages on Linux): be sure to install the "dev" versions as well, so that you have the header files.<br />
-			Documentation about compiling is available in the "doc" directory in trunk.<br />
-			We prefer that most development (particularly for GSoC) happens in trunk, because of the difficulty of merging later; disruptive changes can have their own branch, but your work is not useful until you have merged to trunk.<br />
-			Please keep the changelog (in the doc/ directory) updated!<br />
-			For information about preparing strings appropriately for internationalization, see
-			<a href="http://www.gnu.org/software/gettext/manual/html_node/Preparing-Strings.html#Preparing-Strings">these</a> <a href="http://techbase.kde.org/Development/Tutorials/Localization/i18n_Mistakes#Pitfall_.232:_Word_Puzzles">tips</a>. TuxMath now has built-in linebreaking code (adopted from gettext) in the "linewrap" source file.<br />
-			<br />
+			<ul>
+			<li>Installing the required libraries (from distributor packages on Linux): be sure to install the "dev" versions as well, so that you have the header files.</li>
+			<li>Documentation about compiling is available in the "doc" directory in trunk.</li>
+			<li>SVN branches: if your work is "disruptive" (meaning it\'s a fairly large change in core aspects of the code), consider working in a branch.  You can then make regular commits without disrupting trunk.<br />
+			However, it is dangerous to work for very long in a branch:  odds are high that your work will be incompatible (in either small or large ways) with other ongoing development, your work will not get the kind of oversight that trunk gets, and in any event your work is not useful until you merge to trunk.  For these reasons you should merge to trunk at any available opportunity.<br />
+			If your work is not disruptive, it may be advisable to work directly in trunk.</li>
+			<li>Please keep the changelog (in the doc/ directory) updated!</li>
+			<li>For information about preparing strings appropriately for internationalization, see
+			<a href="http://www.gnu.org/software/gettext/manual/html_node/Preparing-Strings.html#Preparing-Strings">these</a> <a href="http://techbase.kde.org/Development/Tutorials/Localization/i18n_Mistakes#Pitfall_.232:_Word_Puzzles">tips</a>. TuxMath now has built-in linebreaking code (adopted from gettext) in the "linewrap" source file.</li>
+			</ul>
 			
 			<b>Graphics</b><br />
 			Because of the impending support for <a href="http://en.wikipedia.org/wiki/Scalable_Vector_Graphics">SVG</a>, we <i>strongly</i> prefer that any new graphics files be created in SVG format. We can generate PNG files as needed from the SVGs.
