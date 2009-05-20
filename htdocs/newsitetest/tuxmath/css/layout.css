@@ -68,11 +68,23 @@
 	}
 	
 	.downloads {
-	
+	padding: 10px;
+	text-align: center;
+	border-collapse: collapse;
 	}
 	
 	.downloads th {
-	font-size: 25px;
+	font-size: 20px;
+	background-color: #fff;
+	text-decoration: underline;
+	}
+	
+	.downloads tr {
+	background-color: #D3D3D3;
+	}
+	
+	.downloads td {
+	width: 250px;
 	}
 	
 	.command {
