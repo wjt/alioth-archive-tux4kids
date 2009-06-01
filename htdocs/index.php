@@ -15,6 +15,9 @@ echo'
 					<li><a href="svn.php"><span>SVN Repository</span></a></li>
 					<li><a href="http://alioth.debian.org/forum/?group_id=31080"><span>Forums</span></a></li>
 				</ul>
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br /><br /><br /><br />
+				<img src="images/pow-fusionforge.png" alt="Fusion Forge" />
 			</div>
 			<div class="col2">
 				<font style="font-size: 18px;">Welcome to Tux4kids project!</font><br /><br />
