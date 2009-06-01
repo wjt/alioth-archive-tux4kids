@@ -2,234 +2,83 @@
 include ('includes/pageheader.php');
 
 echo'
-	<title>Tux4kids &raquo; Tuxmath &raquo; Downloads</title>';
-
-include ('includes/header.php');
-
-echo'
+	<title>Tux4kids &raquo; Tuxtype &raquo; Downloads</title>
+	</head>
+<body>
+	<div  align="center">
+		<div class="box">
 			<div class="col1">
 				<ul class="menu">
 					<li><a href="index.php"><span>Home</span></a></li>
-					<li><a href="" class="active"><span>Download</span></a></li>
+					<li><a href="" class="active"><span>Downloads</span></a></li>
 					<li><a href="screens.php"><span>Screenshots</span></a></li>
 					<li><a href="help.php"><span>Get help</span></a></li>
 					<li><a href="other.php"><span>Other Projects</span></a></li>
 					<li><a href="http://www.tux4kids.com"><span>About Tux4Kids</span></a></li>
 				</ul>
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<img src="images/pow-fusionforge.png" alt="Fusion Forge" />
 			</div>
 			<div class="col2">
-				<table class="downloads">
+				<table class="dow">
 					<tr>
-						<th>
-							Source
-						</th>
-						<th>
-							Windows
-						</th>
-						<th>
-							Mac
-						</th>
-						<th>
-							Debian Linux
+						<th colspan=2">
+							Source - <a href="https://alioth.debian.org/frs/download.php/2974/tuxtype_w_fonts-1.7.4.tar.gz">
+							<img src="images/dbutton.png" alt="Download"></a>
 						</th>
 					</tr>
 					<tr>
-						<th>
-							<a href="file.tar.gz">(1.7.2)</a>
+						<td width="48px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
+						<td>For your frustration and enjoyment we give you the foundation of open source software, the source code itself.</td>
+					</tr>
+				</table><br /><br />
+				
+				
+				<table class="dow">
+					<tr>
+						<th colspan="2">
+							Windows 2000, XP, Vista - <a href="https://alioth.debian.org/frs/download.php/2973/tuxtype-1.7.4-win32-installer.exe">
+							<img src="images/dbutton.png" alt="Download"></a>
 						</th>
-						<th>
-							<a href="file.tar.gz">(1.7.2)</a>
+					</tr>
+					<tr>
+						<td width="48px"><img src="images/windows.gif" alt="Windows Logo" align="top" /></td>
+						<td>Here you can download the installer for ever hated, and yet still most popular OS around, Windows.</td>
+					</tr>
+				</table><br /><br />
+				
+				
+				<table class="dow">
+					<tr>
+						<th colspan="2">
+						Apple Mac OS X - <a href="https://alioth.debian.org/frs/download.php/2381/TuxType_w_fonts-1.5.17-MacOS10.3PPC.dmg">
+						<img src="images/dbutton.png" alt="Download"></a>
 						</th>
-						<th>
-							<a href="file.tar.gz">(1.7.2)</a>
+					</tr>
+					<tr>
+						<td width="48px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
+						<td>Either you love it or your hate it, but it is unforgettable Mac OS X.</td>
+					</tr>
+				</table><br /><br />
+				
+				
+				<table class="dow">
+					<tr>
+						<th colspan="2">
+						Debian-based Linux
 						</th>
-						<th>
-							<a href="file.tar.gz">How to</a>
-						</th>
 					</tr>
 					<tr>
-						<td>
-							<a href="file.tar.gz">1.7.1</a>
-						</td>
-						<td>
-							<a href="file.tar.gz">1.7.1</a>
-						</td>
-						<td>
-							<a href="file.tar.gz">1.7.1</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr style="background-color: #fff">
-						<td>
-							<a href="file.tar.gz">1.7.0</a>
-						</td>
-						<td>
-							<a href="file.tar.gz">1.7.0</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<a href="file.tar.gz">1.6.3</a>
-						</td>
-						<td>
-							<a href="file.tar.gz">1.6.3</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr style="background-color: #fff">
-						<td>
-							<a href="file.tar.gz">1.6.2</a>
-						</td>
-						<td>
-							<a href="file.tar.gz">1.6.2</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<a href="file.tar.gz">1.6.1</a>
-						</td>
-						<td>
-							<a href="file.tar.gz">1.6.1</a>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr style="background-color: #fff">
-						<td>
-							<a href="file.tar.gz">1.6.0</a>
-						</td>
-						<td>
-							<a href="file.tar.gz">1.6.0</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<a href="file.tar.gz">1.5.9</a>
-						</td>
-						<td>
-							<a href="file.tar.gz">1.5.6</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr style="background-color: #fff">
-						<td>
-							<a href="file.tar.gz">1.5.8</a>
-						</td>
-						<td>
-							<a href="file.tar.gz">1.5.5</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<a href="file.tar.gz">1.5.7</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr style="background-color: #fff">
-						<td>
-							<a href="file.tar.gz">1.5.6</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<a href="file.tar.gz">1.5.5</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr style="background-color: #fff">
-						<td>
-							<a href="file.tar.gz">1.5.4</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<a href="file.tar.gz">1.5.3</a>
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
-						<td>
-							&nbsp;
-						</td>
+						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
+						<td>If you run Debian simply open a terminal and run<br />
+						<kbd>aptitude install tuxmath tuxtype tuxtype-data-nonfree</kbd></td>
 					</tr>
 				</table>
-			</div>
+			</div>';
+include ('includes/header.php');
+echo'
 		</div>
 	</div>
 </body>

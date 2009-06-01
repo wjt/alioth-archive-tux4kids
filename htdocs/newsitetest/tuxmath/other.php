@@ -2,11 +2,11 @@
 include ('includes/pageheader.php');
 
 echo'
-	<title>Tux4kids &raquo; Tuxtype &raquo; Other projects by Tux4Kids</title>';
-
-include ('includes/header.php');
-
-echo'
+	<title>Tux4kids &raquo; Tuxtype &raquo; Other projects by Tux4Kids</title>
+</head>
+<body>
+	<div  align="center">
+		<div class="box">
 			<div class="col1">
 				<ul class="menu">
 					<li><a href="index.php"><span>Home</span></a></li>
@@ -16,15 +16,19 @@ echo'
 					<li><a href="other.php" class="active"><span>Other Projects</span></a></li>
 					<li><a href="http://www.tux4kids.com"><span>About Tux4Kids</span></a></li>
 				</ul>
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<img src="images/pow-fusionforge.png" alt="Fusion Forge" />
 			</div>
 			<div class="col2">
 				<table>
 					<tr>
 						<td>
-							<a href="http://tux4kids.alioth.debian.org/newsitetest/tuxtype/index.php"><img src="images/tt_title.png" /></a>
+							<a href="http://tux4kids.alioth.debian.org/tuxtype/index.php"><img src="images/tt_title.png" /></a>
 						</td>
 						<td>
-							Tux4Kids also works on a typing game called <a href="http://tux4kids.alioth.debian.org/newsitetest/tuxtype/index.php">TuxTyping</a>.
+							Tux4Kids also works on a typing game called <a href="http://tux4kids.alioth.debian.org/tuxtype/index.php">TuxTyping</a>.
 							This educational game comes with two different games for practicing your typing, and having a great time doing it. 
 						</td>
 					</tr>
@@ -38,7 +42,9 @@ echo'
 						</td>
 					</tr>
 				</table>
-			</div>
+			</div>';
+include ('includes/header.php');
+echo'
 		</div>
 	</div>
 </body>
