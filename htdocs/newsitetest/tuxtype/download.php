@@ -16,37 +16,66 @@ echo'
 					<li><a href="other.php"><span>Other Projects</span></a></li>
 					<li><a href="http://www.tux4kids.com"><span>About Tux4Kids</span></a></li>
 				</ul>
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<img align="center" src="images/pow-fusionforge.png" alt="Fusion Forge" />
 			</div>
 			<div class="col2">
-				<a href="sourcedown.php"><strong>Source</strong></a><br />
-				<img src="images/gear.gif" alt="Gears" />Get the source and compile it yourself.<br />
-				Clicking the link above would take you to yet<br />
-				another page where the download links can <br />
-				be found. 
-				<br />
-				<br />
-				<br />
-				<a href="windown.php"><strong>Windows 2000, XP, Vista</strong></a><br />
-				<img src="images/windows.gif" alt="Windows Logo" />Here is a blurb about Windows Users<br />
-				Clicking the link above would take you to yet<br />
-				another page where the download links can <br />
-				be found. 
-				<br />
-				<br />
-				<br />
-				<a href="macdown.php"><strong>Apple Mac OS X</strong></a><br />
-				<img src="images/macosx.gif" alt="Mac OS X Logo" />Here is a blurb about Mac Users<br />
-				Clicking the link above would take you to yet<br />
-				another page where the download links can <br />
-				be found. 
-				<br />
-				<br />
-				<br />
-				<a href="debdown.php"><strong>Ubuntu Linux</strong></a><br />
-				<img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" />Here is a blurb about Linux Users<br />
-				Clicking the link above would take you to yet<br />
-				another page where the download links can <br />
-				be found. 
+				<table class="dow">
+					<tr>
+						<th colspan=2">
+							Source - <a href="https://alioth.debian.org/frs/download.php/2974/tuxtype_w_fonts-1.7.4.tar.gz">
+							<img src="images/dbutton.png" alt="Download"></a>
+						</th>
+					</tr>
+					<tr>
+						<td width="48px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
+						<td>For your frustration and enjoyment we give you the foundation of open source software, the source code itself.</td>
+					</tr>
+				</table><br /><br />
+				
+				
+				<table class="dow">
+					<tr>
+						<th colspan="2">
+							Windows 2000, XP, Vista - <a href="https://alioth.debian.org/frs/download.php/2973/tuxtype-1.7.4-win32-installer.exe">
+							<img src="images/dbutton.png" alt="Download"></a>
+						</th>
+					</tr>
+					<tr>
+						<td width="48px"><img src="images/windows.gif" alt="Windows Logo" align="top" /></td>
+						<td>Here you can download the installer for ever hated, and yet still most popular OS around, Windows.</td>
+					</tr>
+				</table><br /><br />
+				
+				
+				<table class="dow">
+					<tr>
+						<th colspan="2">
+						Apple Mac OS X - <a href="https://alioth.debian.org/frs/download.php/2381/TuxType_w_fonts-1.5.17-MacOS10.3PPC.dmg">
+						<img src="images/dbutton.png" alt="Download"></a>
+						</th>
+					</tr>
+					<tr>
+						<td width="48px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
+						<td>Either you love it or your hate it, but it is unforgettable Mac OS X.</td>
+					</tr>
+				</table><br /><br />
+				
+				
+				<table class="dow">
+					<tr>
+						<th colspan="2">
+						Debian-based Linux
+						</th>
+					</tr>
+					<tr>
+						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
+						<td>If you run Debian simply open a terminal and run<br />
+						<kbd>aptitude install tuxmath tuxtype tuxtype-data-nonfree</kbd></td>
+					</tr>
+				</table>
 			</div>';
 include ('includes/header.php');
 echo'

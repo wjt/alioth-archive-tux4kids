@@ -21,10 +21,10 @@ echo'
 				<table>
 					<tr>
 						<td align="center">
-							<a href="http://tux4kids.alioth.debian.org/newsitetest/tuxmath/index.php"><img src="images/tm_title.png" /></a>
+							<a href="http://tux4kids.alioth.debian.org/tuxmath/index.php"><img src="images/tm_title.png" /></a>
 						</td>
 						<td>
-							<a href="http://tux4kids.alioth.debian.org/newsitetest/tuxmath/index.php">Tux, of Math Command</a>, AKA TuxMath, is 
+							<a href="http://tux4kids.alioth.debian.org/tuxmath/index.php">Tux, of Math Command</a>, AKA TuxMath, is 
 							a great program that uses several different playing styles on two different games to help teach kids math skills in a fun way.
 						</td>
 					</tr>
