@@ -24,10 +24,10 @@ echo'
 			<div class="col2">
 				<table class="dow">
 					<tr>
-						<th colspan=2">
-							Source - <a href="https://alioth.debian.org/frs/download.php/2974/tuxtype_w_fonts-1.7.4.tar.gz">
-							<img src="images/dbutton.png" alt="Download"></a>
-						</th>
+						<th colspan=2" width="700px">Source</th>
+						<td>
+							<a href="https://alioth.debian.org/frs/download.php/2971/tuxmath_w_fonts-1.7.2.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+						</td>
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
@@ -38,10 +38,10 @@ echo'
 				
 				<table class="dow">
 					<tr>
-						<th colspan="2">
-							Windows 2000, XP, Vista - <a href="https://alioth.debian.org/frs/download.php/2973/tuxtype-1.7.4-win32-installer.exe">
-							<img src="images/dbutton.png" alt="Download"></a>
-						</th>
+						<th colspan="2" width="700px">Windows 2000, XP, Vista</th>
+						<td>
+							<a href="https://alioth.debian.org/frs/download.php/2972/tuxmath-1.7.2-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
+						</td>
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/windows.gif" alt="Windows Logo" align="top" /></td>
@@ -52,10 +52,10 @@ echo'
 				
 				<table class="dow">
 					<tr>
-						<th colspan="2">
-						Apple Mac OS X - <a href="https://alioth.debian.org/frs/download.php/2381/TuxType_w_fonts-1.5.17-MacOS10.3PPC.dmg">
-						<img src="images/dbutton.png" alt="Download"></a>
-						</th>
+						<th colspan="2" width="700px">Apple Mac OS X</th>
+						<td>	
+							<a href="https://alioth.debian.org/frs/download.php/3014/tuxmath-1.7.2-macosx.dmg"><img src="images/dbutton.png" alt="Download"></a>
+						</td>
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
@@ -76,6 +76,8 @@ echo'
 						<kbd>aptitude install tuxmath tuxtype tuxtype-data-nonfree</kbd></td>
 					</tr>
 				</table>
+				<br />
+				If you are looking for earlier releases check out our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.
 			</div>';
 include ('includes/header.php');
 echo'

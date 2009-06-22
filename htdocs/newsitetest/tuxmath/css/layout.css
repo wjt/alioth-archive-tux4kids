@@ -90,6 +90,12 @@
 	.dow {
 	font-family: Arial;
 	width: 815px;
+	border: #000 3px solid;
+	border-collapse: collapse;
+	}
+	
+	.dow tr{
+	border: #000 1px solid;
 	}
 	
 	.dow th{
