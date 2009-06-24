@@ -1,7 +1,7 @@
 <?php
 include ('includes/pageheader.php');
 echo'
-	<title>Tux4kids - Projects</title>
+	<title>Tux4Kids - Projects</title>
 	</head>
 <body>
 	<div align="center">
@@ -31,7 +31,7 @@ echo'
 							<a href="http://www.tuxpaint.org/"><img src="images/tp_title.png" /></a>
 						</td>
 						<td>
-							Partnering with New Breed Software, Tux4Kids helps bring you <a href="http://www.tuxpaint.org/">Tux Paint</a>. This remarkable drawing program
+							Partnering with New Breed Software, Tux4Kids helps bring you <a href="http://www.tuxpaint.org/">Tux Paint</a>. This award-winning drawing program
 							empowers kids to be creative in an environment complete with magic tools and sound effects. 							
 						</td>
 					</tr>

@@ -21,7 +21,7 @@ echo'
 			</div>
 			<div class="col2">
 				<font style="font-size: 18px;">Welcome to Tux4Kids!</font><br />
-				Tux4Kids develops high-quality software for kids, with the goal of combining fun and learning into an irresistable package. Our software is free for use by anyone, either at home or on hundreds of computers in a school. We support all major platforms, including Windows, Macintosh, and Linux/Unix. Our programs are used by people around the globe, and they have been translated into dozens of different languages. As open-source software, these programs can be freely extended or customized, and they are supported by active communities of volunteer developers.
+				Tux4Kids develops high-quality software for kids, with the goal of combining fun and learning into an irresistable package. Our software is free: you can download it for use at home or onto hundreds of computers in a school. We support all major platforms, including Windows, Macintosh, and Linux/Unix. Our programs are used by people around the globe, and they have been translated into dozens of different languages. As open-source software, these programs can be freely extended or customized, and they are supported by active communities of volunteer developers.
 				<br />
 				Whether you\'re a parent, a teacher, or a kid, give Tux4Kids software a try!<br />
 				<br />
