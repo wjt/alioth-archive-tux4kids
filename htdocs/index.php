@@ -1,7 +1,7 @@
 <?php
 include ('includes/pageheader.php');
 echo'
-	<title>Tux4kids - Home</title>
+	<title>Tux4Kids - Home</title>
 	</head>
 <body>
 	<div  align="center">
@@ -20,7 +20,11 @@ echo'
 				<img src="images/pow-fusionforge.png" alt="Fusion Forge" />
 			</div>
 			<div class="col2">
-				<font style="font-size: 18px;">Welcome to Tux4kids project!</font><br /><br />
+				<font style="font-size: 18px;">Welcome to Tux4Kids!</font><br />
+				Tux4Kids develops high-quality software for kids, with the goal of combining fun and learning into an irresistable package. Our software is free for use by anyone, either at home or on hundreds of computers in a school. We support all major platforms, including Windows, Macintosh, and Linux/Unix. Our programs are used by people around the globe, and they have been translated into dozens of different languages. As open-source software, these programs can be freely extended or customized, and they are supported by active communities of volunteer developers.
+				<br />
+				Whether you\'re a parent, a teacher, or a kid, give Tux4Kids software a try!<br />
+				<br />
 				<table class="front">
 					<tr>
 						<th><b>NEWS, 2009-03-19: Tux4Kids accepted for GSoC 2009!</b></th>
