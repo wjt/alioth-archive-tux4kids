@@ -26,8 +26,7 @@ echo'
 							<a href="http://tux4kids.alioth.debian.org/tuxmath/index.php"><img src="images/tm_title.png" /></a>
 						</td>
 						<td>
-							<a href="http://tux4kids.alioth.debian.org/tuxmath/index.php">Tux, of Math Command</a>, AKA TuxMath, is 
-							a great program that uses several different playing styles on two different games to help teach kids math skills in a fun way.
+							<a href="http://tux4kids.alioth.debian.org/tuxmath/index.php">Tux, of Math Command</a>, a.k.a. TuxMath, helps kids hone their arithmetic skills while they defend penguins from incoming comets. Kids can also explore the asteroid belt with only their factoring abilities to bring them through safely!
 						</td>
 					</tr>
 					<tr>
@@ -35,8 +34,8 @@ echo'
 							<a href="http://www.tuxpaint.org/"><img src="images/tp_title.png" /></a>
 						</td>
 						<td>
-							Partnering with New Breed Software, Tux4Kids helps bring you <a href="http://www.tuxpaint.org/">Tux Paint</a>. This fun drawing game 
-							encourages kids to be creative and creates a fun environment complete with sound effects. 							
+							Partnering with New Breed Software, Tux4Kids helps bring you <a href="http://www.tuxpaint.org/">Tux Paint</a>. This remarkable drawing program
+							empowers kids to be creative in an environment complete with magic tools and sound effects.  							
 						</td>
 					</tr>
 					<tr>
@@ -44,8 +43,8 @@ echo'
 							<a href="http://tux4kids.alioth.debian.org/tuxtype/index.php"><img src="images/tt_title.png" /></a>
 						</td>
 						<td>
-							Tux4Kids also works on a typing game called <a href="http://tux4kids.alioth.debian.org/tuxtype/index.php">TuxTyping</a>.
-							This educational game comes with two different games for practicing your typing, and having a great time doing it. 
+							<a href="http://tux4kids.alioth.debian.org/tuxtype/index.php">TuxTyping</a>
+							Tux the penguin is hungry, and loves to eat fish. But Tux can only catch the fish if you type the right letters in time! Can you help Tux?
 						</td>
 					</tr>
 				</table>
