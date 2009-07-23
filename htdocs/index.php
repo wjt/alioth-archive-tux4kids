@@ -70,11 +70,11 @@ echo'
 						</td>
 					</tr>
 				</table>
-			</div>
-			';
+			</div>';
 include ('includes/header.php');
 echo'
 		</div>
 	</div>
 </body>
-</html>
+</html>';
+?>
