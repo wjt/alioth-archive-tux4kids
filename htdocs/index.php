@@ -1,9 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<link rel="stylesheet" media="all" type="text/css" href="css/layout.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="css/stylesheet.css" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<?php
+include ('includes/pageheader.php');
+echo'
 	<title>Tux4Kids - Home</title>
 	</head>
 <body>
@@ -74,11 +71,9 @@
 					</tr>
 				</table>
 			</div>
-			<div class="header">
-			<span class="drop"><a href="http://tux4kids.alioth.debian.org/"><img src="images/title.png" alt="Tux4Kids logo" /></a><br />
-			High Quality Educational Software Alternatives
-			<span><img src="images/tux.png" alt="Tux" /></span></span>
-			</div>
+			';
+include ('includes/header.php');
+echo'
 		</div>
 	</div>
 </body>
