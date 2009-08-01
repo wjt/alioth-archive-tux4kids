@@ -24,16 +24,17 @@ echo'
 			<div class="col2">
 				<table class="dow">
 					<tr>
-						<th colspan=2" width="700px">Source</th>
-						<td>
-							<a href="https://alioth.debian.org/frs/download.php/2971/tuxmath_w_fonts-1.7.2.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
-						</td>
+						<th colspan="2">
+						Debian-based Linux
+						</th>
 					</tr>
 					<tr>
-						<td width="48px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
-						<td>For your frustration and enjoyment we give you the foundation of open source software, the source code itself.</td>
+						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
+						<td>If you run Debian simply open a terminal and run<br />
+						<kbd>aptitude install tuxmath tuxtype tuxtype-data-nonfree</kbd></td>
 					</tr>
-				</table><br /><br />
+				</table>
+				<br />
 				
 				
 				<table class="dow">
@@ -62,22 +63,21 @@ echo'
 						<td>Either you love it or your hate it, but it is unforgettable Mac OS X.</td>
 					</tr>
 				</table><br /><br />
-				
-				
 				<table class="dow">
 					<tr>
-						<th colspan="2">
-						Debian-based Linux
-						</th>
+						<th colspan=2" width="700px">Source</th>
+						<td>
+							<a href="https://alioth.debian.org/frs/download.php/2971/tuxmath_w_fonts-1.7.2.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+						</td>
 					</tr>
 					<tr>
-						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
-						<td>If you run Debian simply open a terminal and run<br />
-						<kbd>aptitude install tuxmath tuxtype tuxtype-data-nonfree</kbd></td>
+						<td width="48px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
+						<td>For your enjoyment and to enable you to learn even more we give you the foundation of open source software, the source code itself.</td>
 					</tr>
-				</table>
-				<br />
-				If you are looking for earlier releases check out our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.
+				</table><br /><br />
+				
+				
+				If you are looking for earlier (or newer!) releases check out our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.
 			</div>';
 include ('includes/header.php');
 echo'
