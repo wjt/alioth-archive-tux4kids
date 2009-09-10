@@ -1,12 +1,6 @@
-<?php
-include ('includes/pageheader.php');
-
-echo'
-	<title>Tux4kids - Home</title>';
-
-include ('includes/header.php');
-
-echo'
+<?php include ('includes/pageheader.php');?>
+	<title>Tux4kids - Home</title>
+<?php include ('includes/header.php');?>
 			<div class="col1">
 				<ul class="menu">
 					<li><a href="index.php"><span>Home</span></a></li>
@@ -24,12 +18,11 @@ echo'
 				<br />
 				
 				<font style="font-size: 10px;">Note - Please DO NOT use a WYSIWYG program. Those add bloat to the code and
-				they would not work well with what I\'ve
+				they would not work well with what we've
 				written into the site so far.</font><br />
 				<br />
-				We are using PHP to generate the xhtml code. Because of this please note that any use of the \' in text must be
-				preceeded by a \ to display properly. Watch for the contractions. Also, unless you are running a web server
-				with php enabled, you will need to upload it to test it, since a browser cannot handle php on it\'s own. Also
+				We are using PHP includes to generate some of the xhtml code, while the rest is normal xhtml code. Unless you are running
+				a web server with php enabled, you will need to upload it to test it, since a browser cannot handle php on it's own. Also
 				for the record, most of the formatting is done by CSS in the css directory.<br />
 				<br />
 				
@@ -60,7 +53,7 @@ echo'
 				<br />
 				The href points to the file and anything between the tags becomes a link. Text will turn blue and underlined,
 				and pictures will let you click on them. You can use a relative file path or an asolute file path here, relative
-				is prefered. If you do not know what a relative file path is, please don\'t change anything on the website, 
+				is prefered. If you do not know what a relative file path is, please don't change anything on the website, 
 				just email me what you want up there. <br />
 				<br />
 				
@@ -77,5 +70,4 @@ echo'
 		</div>
 	</div>
 </body>
-</html>';
-?>
+</html>

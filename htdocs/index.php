@@ -1,6 +1,4 @@
-<?php
-include ('includes/pageheader.php');
-echo'
+<?php include ('includes/pageheader.php');?>
 	<title>Tux4Kids - Home</title>
 	</head>
 <body>
@@ -21,9 +19,13 @@ echo'
 			</div>
 			<div class="col2">
 				<font style="font-size: 18px;">Welcome to Tux4Kids!</font><br />
-				Tux4Kids develops high-quality software for kids, with the goal of combining fun and learning into an irresistable package. Our software is free: you can download it for use at home or onto hundreds of computers in a school. We support all major platforms, including Windows, Macintosh, and Linux/Unix. Our programs are used by people around the globe, and they have been translated into dozens of different languages. As open-source software, these programs can be freely extended or customized, and they are supported by active communities of volunteer developers.
+				Tux4Kids develops high-quality software for kids, with the goal of combining fun and learning into an irresistable package.
+				Our software is free: you can download it for use at home or onto hundreds of computers in a school. We support all major
+				platforms, including Windows, Macintosh, and Linux/Unix. Our programs are used by people around the globe, and they have
+				been translated into dozens of different languages. As open-source software, these programs can be freely extended or
+				customized, and they are supported by active communities of volunteer developers.
 				<br />
-				Whether you\'re a parent, a teacher, or a kid, give Tux4Kids software a try!<br />
+				Whether you're a parent, a teacher, or a kid, give Tux4Kids software a try!<br />
 				<br />
 				<table class="front">
 					<tr>
@@ -31,7 +33,7 @@ echo'
 					</tr>
 					<tr>
 						<td>
-						Tux4Kids has been accepted as a participating organization for this year\'s Google Summer of Code. We are very excited
+						Tux4Kids has been accepted as a participating organization for this year's Google Summer of Code. We are very excited
 						about another phase of productive coding. All three Tux4Kids programs (Tux Paint, Tux Math and Tux Typing) will take part
 						again this year. The GSoC site has full information, including the list of particating organizations and their applications for
 						students. The list of "Ideas" for Tux4Kids is on the GSoC site. The student application period is 23 March to 03 April.
@@ -45,7 +47,7 @@ echo'
 					</tr>
 					<tr>
 						<td>
-						Tux4Kids has submitted its application to participate in Google\'s Summer of Code again for 2009. We will be informed on
+						Tux4Kids has submitted its application to participate in Google's Summer of Code again for 2009. We will be informed on
 						March 18 whether our application has been accepted. Further information will be posted at that time.
 						</td>
 					</tr>
@@ -70,11 +72,9 @@ echo'
 						</td>
 					</tr>
 				</table>
-			</div>';
-include ('includes/header.php');
-echo'
+			</div>
+<?php include ('includes/header.php');?>
 		</div>
 	</div>
 </body>
-</html>';
-?>
+</html>

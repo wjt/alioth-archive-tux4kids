@@ -1,6 +1,4 @@
-<?php
-include ('includes/pageheader.php');
-echo'
+<?php include ('includes/pageheader.php');?>
 	<title>Tux4kids - Mailing Lists</title>
 	</head>
 <body>
@@ -20,7 +18,8 @@ echo'
 				<img src="images/pow-fusionforge.png" alt="Fusion Forge" />
 			</div>
 			<div class="col2">
-				Tux4Kids has 11 active mailing lists. Different mailing lists are used for different purposes.<br />
+				Mailing lists are the best way to keep up with what is going on with the Tux4Kids projects. Tux4Kids has 11 active mailing
+				lists. Different mailing lists are used for different purposes. See the descriptions below.<br />
 				<br />
 				<b>General Tux4Kids List: (not project-specific)</b>
 				<ul>
@@ -54,11 +53,9 @@ echo'
 					<li><a href="http://lists.alioth.debian.org/mailman/listinfo/tux4kids-commits">Tux4kids-commits</a> - CVG commit logs</li>
 					<li><a href="https://lists.sourceforge.net/lists/listinfo/tuxpaint-cvs">Tuxpaint-cvs</a> - CVS commit logs for Tux Paint project</li>
 				</ul>
-			</div>';
-include ('includes/header.php');
-echo'
+			</div>
+<?php include ('includes/header.php');?>
 		</div>
 	</div>
 </body>
-</html>';
-?>
+</html>

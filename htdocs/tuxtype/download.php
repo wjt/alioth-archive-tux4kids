@@ -1,7 +1,4 @@
-<?php
-include ('includes/pageheader.php');
-
-echo'
+<?php include ('includes/pageheader.php');?>
 	<title>Tux4kids &raquo; Tuxtype &raquo; Downloads</title>
 	</head>
 <body>
@@ -22,21 +19,6 @@ echo'
 				<img src="images/pow-fusionforge.png" alt="Fusion Forge" />
 			</div>
 			<div class="col2">
-			
-				<table class="dow">
-					<tr>
-						<th colspan="2">
-						Debian-based Linux
-						</th>
-					</tr>
-					<tr>
-						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
-						<td>If you run Debian simply open a terminal and run<br />
-						<kbd>aptitude install tuxmath tuxtype tuxtype-data-nonfree</kbd></td>
-					</tr>
-				</table>
-				<br />
-				
 				<table class="dow">
 					<tr>
 						<th colspan="2" width="700px">Windows 2000, XP, Vista</th>
@@ -49,8 +31,6 @@ echo'
 						<td>Here you can download the installer for ever hated, and yet still most popular OS around, Windows.</td>
 					</tr>
 				</table><br /><br />
-				
-				
 				<table class="dow">
 					<tr>
 						<th colspan="2" width="700px">Apple Mac OS X</th>
@@ -63,7 +43,18 @@ echo'
 						<td>Either you love it or your hate it, but it is unforgettable Mac OS X.</td>
 					</tr>
 				</table><br /><br />
-				
+				<table class="dow">
+					<tr>
+						<th colspan="2">
+						Debian-based Linux
+						</th>
+					</tr>
+					<tr>
+						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
+						<td>If you run Debian simply open a terminal and run<br />
+						<kbd>aptitude install tuxmath tuxtype tuxtype-data-nonfree</kbd></td>
+					</tr>
+				</table><br /><br />
 				<table class="dow">
 					<tr>
 						<th colspan=2" width="700px">Source</th>
@@ -77,11 +68,9 @@ echo'
 					</tr>
 				</table><br /><br />
 					If you are looking for earlier (or newer!) releases check out our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.
-			</div>';
-include ('includes/header.php');
-echo'
+			</div>
+<?php include ('includes/header.php');?>
 		</div>
 	</div>
 </body>
-</html>';
-?>
+</html>

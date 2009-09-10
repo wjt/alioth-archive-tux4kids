@@ -1,6 +1,4 @@
-<?php
-include ('includes/pageheader.php');
-echo'
+<?php include ('includes/pageheader.php');?>
 	<title>Tux4kids - SVN</title>
 	</head>
 <body>
@@ -39,11 +37,9 @@ echo'
 				With this checkout, you can use the full functionality of SVN and distribute your improvements to all the developers. If you started developing with an
 				anonymous checkout, you can manually copy any changes over to the new directory created with your Alioth account and check them in.<br />
 				<br />
-			</div>';
-include ('includes/header.php');
-echo'
+			</div>
+<?php include ('includes/header.php');?>
 		</div>
 	</div>
 </body>
-</html>';
-?>
+</html>
