@@ -19,7 +19,7 @@
 			</div>
 			<div class="col2">
 				Mailing lists are the best way to keep up with what is going on with the Tux4Kids projects. Tux4Kids has 11 active mailing
-				lists. Different mailing lists are used for different purposes. Please pick the appropriate mailing list below..<br />
+				lists. Different mailing lists are used for different purposes. Pick the appropriate mailing list below.<br />
 				<br />
 				<b>General Tux4Kids List: (not project-specific)</b>
 				<ul>
