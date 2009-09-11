@@ -6,13 +6,16 @@
 		<div class="box">
 			<div class="col1">
 				<ul class="menu">
-					<li><a href="index.php"><span>Home</span></a></li>
-					<li><a href="" class="active"><span>Projects</span></a></li>
+					<li><a href="index.php" class="active"><span>Home</span></a></li>
+					<li><a href="projects.php"><span>Projects</span></a></li>
 					<li><a href="dev.php"><span>For Developers</span></a></li>
-					<li><a href="http://alioth.debian.org/mail/?group_id=31080"><span>Mailing Lists</span></a></li>
+					<li><a href="mail.php"><span>Mailing Lists</span></a></li>
 					<li><a href="svn.php"><span>SVN Repository</span></a></li>
-					<li><a href="http://alioth.debian.org/forum/?group_id=31080"><span>Forums</span></a></li>
+					<li><a href="https://alioth.debian.org/forum/?group_id=31080"><span>Forums</span></a></li>
 				</ul>
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br /><br /><br /><br />
+				<img src="images/pow-fusionforge.png" alt="Fusion Forge" />
 			</div>
 			<div class="col2">
 				<table>

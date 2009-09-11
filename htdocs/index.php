@@ -2,7 +2,7 @@
 	<title>Tux4Kids - Home</title>
 	</head>
 <body>
-	<div  align="center">
+	<div align="center">
 		<div class="box">
 			<div class="col1">
 				<ul class="menu">
@@ -23,8 +23,7 @@
 				Our software is free: you can download it for use at home or onto hundreds of computers in a school. We support all major
 				platforms, including Windows, Macintosh, and Linux/Unix. Our programs are used by people around the globe, and they have
 				been translated into dozens of different languages. As open-source software, these programs can be freely extended or
-				customized, and they are supported by active communities of volunteer developers.
-				<br />
+				customized, and they are supported by active communities of volunteer developers.<br />
 				Whether you're a parent, a teacher, or a kid, give Tux4Kids software a try!<br />
 				<br />
 				<table class="front">
