@@ -2,5 +2,5 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<link rel="stylesheet" media="all" type="text/css" href="css/layout.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="css/stylesheet.css" />
+	<link rel="stylesheet" media="all" type="text/css" href="css/stylesheet.css" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

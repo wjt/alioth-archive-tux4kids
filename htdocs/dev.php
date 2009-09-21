@@ -1,10 +1,10 @@
 <?php include ('includes/pageheader.php');?>
--	<title>Tux4kids - Developers</title>
--	</head>
--<body>
--	<div align="center">
--		<div class="box">
--			<div class="col1">
+	<title>Tux4kids - Developers</title>
+	</head>
+	<body>
+	<div align="center">
+		<div class="box">
+			<div class="col1">
 				<ul class="menu">
 					<li><a href="index.php" class="active"><span>Home</span></a></li>
 					<li><a href="projects.php"><span>Projects</span></a></li>

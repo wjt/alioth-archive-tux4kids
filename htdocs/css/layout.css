@@ -52,15 +52,15 @@
 	}
 	
 	.drop {
-	display:block;
-	margin:0;
-	text-align:left;
+	display: block;
+	margin: 0px;
+	text-align: left;
 	}
 
 	.drop span {
 	position: relative;
 	top: -98px;
-	float:right;
+	float: right;
 	}
 	
 	.front {
