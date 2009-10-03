@@ -67,7 +67,7 @@
 						Currently supported distributions include OpenSUSE (10.3, 11.0, 11.1, Factory); Fedora 9 and 10; and Mandriva 2008 and 2009.
 						All of these packages have been built for both i586 and x86_64 architectures. Testing is needed for all of the preview packages -
 						please report any issues to tuxmath-devel@lists.sourceforge.net. The Build System also supports .deb packaging for recent Debian
-						and Ubuntu releases, but these builds have not yet been implemented.
+						and Ubuntu releases, but building of preview .deb packages is not yet set up. Of course, official releases of all Tux4Kids apps are included the standard Debian and Ubuntu repositories.
 						</td>
 					</tr>
 				</table>
