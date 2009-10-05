@@ -28,6 +28,17 @@
 				<br />
 				<table class="front">
 					<tr>
+						<th><b>NEWS, 2009-10-05: Webpage update immident!</b></th>
+					</tr>
+					<tr>
+						<td>
+						A somewhat dummy entry. Please remove.
+						</td>
+					</tr>
+				</table>
+				<br />
+				<table class="front">
+					<tr>
 						<th><b>NEWS, 2009-03-19: Tux4Kids accepted for GSoC 2009!</b></th>
 					</tr>
 					<tr>
