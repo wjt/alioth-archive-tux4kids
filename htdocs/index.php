@@ -39,7 +39,7 @@
 						three projects are still being actively worked on, even though there may not be much activity on the front page
 						here. Keep checking back for the next versions of each of the programs. Alot of work was done over the summer by
 						the GSOC particpants. Subscribe to our <a href="mail.php">Mailing Lists</a> to keep up with every detail. Questions
-						can be submitted on the <a href="https://alioth.debian.org/forum/?group_id=31080">Forums</a> or on the mailing
+						can be submitted in the <a href="https://alioth.debian.org/forum/?group_id=31080">Forums</a> or on the mailing
 						lists. Any problems, suggestions, typos, etc. please direct to the Tux4Kids discuss list, and I will make the
 						corrections as soon as possible. 
 						</td>

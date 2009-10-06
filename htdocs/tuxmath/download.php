@@ -67,8 +67,6 @@
 						<td>For your enjoyment and to enable you to learn even more we give you the foundation of open source software, the source code itself.</td>
 					</tr>
 				</table><br /><br />
-				
-				
 				If you are looking for earlier (or newer!) releases check out our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.
 			</div>
 <?php include ('includes/header.php');?>
