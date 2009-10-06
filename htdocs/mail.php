@@ -1,26 +1,22 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<link rel="stylesheet" media="all" type="text/css" href="css/layout.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="css/stylesheet.css" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	<title>Tux4kids - Mailing Lists</title>
+<?php include ('includes/pageheader.php');?>
+	<title>Tux4Kids - Mailing Lists</title>
 	</head>
 <body>
 	<div align="center">
 		<div class="box">
-
 			<div class="col1">
 				<ul class="menu">
-					<li><a href="index.php" class="active"><span>Home</span></a></li>
-					<li><a href="projects.php"><span>Projects</span></a></li>
+					<li><a href="index.php"><span>Home</span></a></li>
+					<li><a href="tuxmath.php"><span>TuxMath</span></a></li>
+					<li><a href="tuxpaint.php"><span>TuxPaint</span></a></li>
+					<li><a href="tuxtyping.php"><span>TuxTyping</span></a></li>
 					<li><a href="dev.php"><span>For Developers</span></a></li>
-					<li><a href="mail.php"><span>Mailing Lists</span></a></li>
+					<li><a href="mail.php" class="active"><span>Mailing Lists</span></a></li>
 					<li><a href="svn.php"><span>SVN Repository</span></a></li>
-
 					<li><a href="https://alioth.debian.org/forum/?group_id=31080"><span>Forums</span></a></li>
 				</ul>
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-				<br /><br /><br /><br /><br /><br /><br /><br />
+				<br /><br /><br /><br /><br />
 				<img src="images/pow-fusionforge.png" alt="Fusion Forge" />
 			</div>
 			<div class="col2">
@@ -67,16 +63,9 @@
 
 				</ul>
 			</div>
-			<div class="header">
-				<table>
-					<tr>
-						<td style="width: 850px;"><a href="http://tux4kids.alioth.debian.org/"><img src="images/title.png" alt="Tux4Kids logo" /></a><br>
-						High Quality Educational Software Alternatives</td>
-						<td><img src="images/tux.png" alt="Tux" /></td>
-
-					</tr>
-				</table>
-			</div>		</div>
+			</div>
+<?php include ('includes/header.php');?>
+		</div>
 	</div>
 </body>
 </html>
