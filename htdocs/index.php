@@ -79,8 +79,8 @@
 					<tr>
 						<td>
 						Tux4Kids is now an active participant in the OpenSUSE Build Service, which provides the infrastructure for automated package
-						building for most linux distributions. Tuxmath and Tuxtype packages can be located through the build service search page. This
-						search page will locate both the most recent stable releases, located in the OpenSUSE Education project, as well as "preview"
+						building for most linux distributions. Tuxmath and Tuxtype packages can be located through the build service search page. <a href="http://software.opensuse.org/search">This
+						search page</a> will locate both the most recent stable releases, located in the OpenSUSE Education project, as well as "preview"
 						releases, located in my home project but available to anyone. The "preview" packages are now generated almost automatically
 						and will track the status of the Subversion repository quite closely.<br />
 						<br />
