@@ -66,7 +66,7 @@
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
-						<td>For your enjoyment and to enable you to learn even more we give you the foundation of open source software, the source code itself.</td>
+						<td>Standard *.tar.gz "tarball" source archive, suitable for building using "./configure; make; sudo make install". See the README file for list of required libs.</td>
 					</tr>
 				</table><br /><br />
 					If you are looking for earlier (or newer!) releases check out our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.
