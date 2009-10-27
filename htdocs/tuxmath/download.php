@@ -40,19 +40,21 @@
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
-						<td>Either you love it or your hate it, but it is unforgettable Mac OS X.</td>
+						<td>Mac OS X</td>
 					</tr>
 				</table><br /><br />
 				<table class="dow">
 					<tr>
 						<th colspan="2">
-						Debian-based Linux
+						Ubuntu and other Debian-based Linux
 						</th>
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
 						<td>If you run Debian simply open a terminal and run<br />
-						<kbd>aptitude install tuxmath tuxtype tuxtype-data-nonfree</kbd></td>
+						<kbd>sudo aptitude install tuxmath</kbd></td>
+						<td>For Ubuntu users or anyone who prefers "apt-get" over "aptitude", the command is:<br />
+						<kbd>sudo apt-get install tuxmath</kbd></td>
 					</tr>
 				</table><br /><br />
 				<table class="dow">
