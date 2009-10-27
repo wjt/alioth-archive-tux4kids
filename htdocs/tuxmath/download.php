@@ -40,7 +40,8 @@
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
-						<td>Mac OS X universal disk image (.dmg) file for Intel-based and PPC-based Macs running OS-X 10.4 ("Tiger") and later.</td>
+						<td>Mac OS X universal disk image (.dmg) file for Intel-based and PPC-based Macs running OS-X 10.4 ("Tiger") and later.<p>Alternatively, if you have <a href="http://www.macports.org">MacPorts</a> installed, the latest version of TuxMath can be installed by simply typing:<br />
+						<kbd>sudo port install tuxmath</kbd></td>
 					</tr>
 				</table><br /><br />
 				<table class="dow">

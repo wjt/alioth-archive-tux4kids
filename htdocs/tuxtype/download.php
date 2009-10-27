@@ -40,7 +40,7 @@
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
-						<td>Mac OS X universal disk image (.dmg) file for Intel-based and PPC-based Macs running OS-X 10.4 ("Tiger") and later.  A PPC-only build for 10.3 ("Panther") and later is available on our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.<p>Additionally, if you have <a href="http://www.macports.org">MacPorts</a> installed, the latest version of Tux Typing can be installed by simply typing:<br />
+						<td>Mac OS X universal disk image (.dmg) file for Intel-based and PPC-based Macs running OS-X 10.4 ("Tiger") and later.  A PPC-only build for 10.3 ("Panther") and later is available on our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.<p>Alternatively, if you have <a href="http://www.macports.org">MacPorts</a> installed, the latest version of Tux Typing can be installed by simply typing:<br />
 						<kbd>sudo port install tuxtype</kbd></td>
 					</tr>
 				</table><br /><br />
