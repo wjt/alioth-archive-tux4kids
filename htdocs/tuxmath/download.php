@@ -21,14 +21,14 @@
 			<div class="col2">
 				<table class="dow">
 					<tr>
-						<th colspan="2" width="700px">Windows 2000, XP, Vista</th>
+						<th colspan="2" width="700px">Windows(tested on 2000, XP, Vista)</th>
 						<td>
 							<a href="https://alioth.debian.org/frs/download.php/2972/tuxmath-1.7.2-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/windows.gif" alt="Windows Logo" align="top" /></td>
-						<td>Here you can download the installer for Microsoft Windows.</td>
+						<td>Executable installer for Windows 2000, XP, Vista (and probably other Windows versions).</td>
 					</tr>
 				</table><br /><br />
 				<table class="dow">
