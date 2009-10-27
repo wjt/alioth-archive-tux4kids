@@ -59,6 +59,17 @@
 				</table><br /><br />
 				<table class="dow">
 					<tr>
+						<th colspan="2">
+						RPM-based Linux
+						</th>
+					</tr>
+					<tr>
+						<td width="70px"><img src="rpm_logo.png" alt="RPM Logo" align="top" /></td>
+						<td>The Tux4Kids applications are available in the standard repositories of all major (GNU)-Linux distributions, and can be installed using the package manager.  For the latest versions, individual RPM packages for TuxMath and TuxType can be found by searching the <a href="http://software.opensuse.org/search">OpenSUSE Build Service</a>. 32-bit and 64-bit packages are available for all recent versions of Fedora, OpenSUSE, and Mandriva.</td>
+					</tr>
+				</table><br /><br />
+				<table class="dow">
+					<tr>
 						<th colspan=2" width="700px">Source</th>
 						<td>
 							<a href="https://alioth.debian.org/frs/download.php/3051/tuxtype_w_fonts-1.7.5.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
