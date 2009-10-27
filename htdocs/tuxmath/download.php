@@ -33,14 +33,14 @@
 				</table><br /><br />
 				<table class="dow">
 					<tr>
-						<th colspan="2" width="700px">Apple Mac OS X</th>
+						<th colspan="2" width="700px">Macintosh OS X</th>
 						<td>	
 							<a href="https://alioth.debian.org/frs/download.php/3014/tuxmath-1.7.2-macosx.dmg"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
-						<td>Mac OS X</td>
+						<td>Mac OS X universal disk image (.dmg) file for Intel-based and PPC-based Macs running OS-X 10.4 ("Tiger") and later.</td>
 					</tr>
 				</table><br /><br />
 				<table class="dow">
@@ -51,7 +51,7 @@
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
-						<td>If you run Debian simply open a terminal and run<br />
+						<td>If you run Debian simply open a terminal and run:<br />
 						<kbd>sudo aptitude install tuxmath</kbd></td>
 						<td>For Ubuntu users or anyone who prefers "apt-get" over "aptitude", the command is:<br />
 						<kbd>sudo apt-get install tuxmath</kbd></td>

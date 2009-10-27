@@ -33,14 +33,14 @@
 				</table><br /><br />
 				<table class="dow">
 					<tr>
-						<th colspan="2" width="700px">Apple Mac OS X</th>
+						<th colspan="2" width="700px">Macintosh OS X</th>
 						<td>	
 							<a href="https://alioth.debian.org/frs/download.php/2380/TuxType_w_fonts-1.5.17-MacOS10.4+.dmg"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
-						<td>Mac OS X</td>
+						<td>Mac OS X universal disk image (.dmg) file for Intel-based and PPC-based Macs running OS-X 10.4 ("Tiger") and later.  A PPC-only build for 10.3 ("Panther") and later is available on our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.</td>
 					</tr>
 				</table><br /><br />
 				<table class="dow">
@@ -51,7 +51,7 @@
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
-						<td>If you run Debian simply open a terminal and run<br />
+						<td>If you run Debian simply open a terminal and run:<br />
 						<kbd>sudo aptitude install tuxmath</kbd></td>
 						<td>For Ubuntu users or anyone who prefers "apt-get" over "aptitude", the command is:<br />
 						<kbd>sudo apt-get install tuxmath</kbd></td>
