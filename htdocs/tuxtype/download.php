@@ -23,11 +23,11 @@
 					<tr>
 						<th colspan="2" width="700px">Windows(tested on 2000, XP, Vista)</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3177/tuxtype-1.8.0-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3177/tuxtype-1.8.0-win32-installer.exe"><img src="images/dbutton.png" alt="Download Version 1.8.0"></a>
 						</td>
 					</tr>
 					<tr>
-						<td width="48px"><img src="images/windows.gif" alt="Windows Logo" align="top" /></td>
+						<td width="80px"><img src="images/windows.gif" alt="Windows Logo" align="top" /></td>
 						<td>Executable installer for Windows 2000, XP, Vista (and probably other Windows versions).</td>
 					</tr>
 				</table><br /><br />
@@ -35,11 +35,11 @@
 					<tr>
 						<th colspan="2" width="700px">Macintosh OS X</th>
 						<td>	
-							<a href="https://alioth.debian.org/frs/download.php/2380/TuxType_w_fonts-1.5.17-MacOS10.4+.dmg"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/2380/TuxType_w_fonts-1.5.17-MacOS10.4+.dmg"><img src="images/dbutton.png" alt="Download Version 1.5.17"></a>
 						</td>
 					</tr>
 					<tr>
-						<td width="48px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
+						<td width="80px"><img src="images/macosx.gif" alt="Mac OS X Logo" align="top" /></td>
 						<td>Mac OS X universal disk image (.dmg) file for Intel-based and PPC-based Macs running OS-X 10.4 ("Tiger") and later.  A PPC-only build for 10.3 ("Panther") and later is available on our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.<p>Alternatively, if you have <a href="http://www.macports.org">MacPorts</a> installed, the latest version of Tux Typing can be installed by simply typing:<br />
 						<kbd>sudo port install tuxtype</kbd></td>
 					</tr>
@@ -51,7 +51,7 @@
 						</th>
 					</tr>
 					<tr>
-						<td width="48px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
+						<td width="80px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
 						<td>If you run Debian simply open a terminal and run:<br />
 						<kbd>sudo aptitude install tuxmath</kbd></td>
 						<td>For Ubuntu users or anyone who prefers "apt-get" over "aptitude", the command is:<br />
@@ -73,11 +73,11 @@
 					<tr>
 						<th colspan=2" width="700px">Source</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3175/tuxtype_w_fonts-1.8.0.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3175/tuxtype_w_fonts-1.8.0.tar.gz"><img src="images/dbutton.png" alt="Download Version 1.8.0"></a>
 						</td>
 					</tr>
 					<tr>
-						<td width="48px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
+						<td width="80px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
 						<td>Standard *.tar.gz "tarball" source archive, suitable for building using "./configure; make; sudo make install". See the README file for list of required libs.</td>
 					</tr>
 				</table><br /><br />
