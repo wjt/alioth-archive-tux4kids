@@ -34,7 +34,7 @@
 					</tr>
 					<tr>
 						<td>
-						Version 1.8.0 of Tux Typing has been released and is available for download at this site. This release includes many new word lists and lessons, as well as all-new high-resolution background images and new music files for the "fish" game.  Additionally, Tux Typing 1.8.0 includes the first public rlease of the new word list editor from GSoC 2009 - it is now possible to create custom word lists from with Tux Typing itself.<br />
+						Version 1.8.0 of Tux Typing has been released and is available for download at this site. This release includes many new word lists and lessons, as well as all-new high-resolution background images and new music files for the "fish" game.  Additionally, Tux Typing 1.8.0 includes the first public release of the new word list editor from GSoC 2009 - it is now possible to create custom word lists from within Tux Typing itself.<br />
 						The source code and a Windows installer are available here at Alioth, and RPM packages can be obtained via the openSUSE build service <a href="http://software.opensuse.org/search">search page</a>.  Mac users are encouraged to check back for the OS-X build, which hopefully will be available in the next few days.
 						</td>
 					</tr>
