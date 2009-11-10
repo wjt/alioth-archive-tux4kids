@@ -23,7 +23,7 @@
 					<tr>
 						<th colspan="2" width="700px">Windows(tested on 2000, XP, Vista)</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3049/tuxtype-1.7.5-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3177/tuxtype-1.8.0-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
@@ -73,7 +73,7 @@
 					<tr>
 						<th colspan=2" width="700px">Source</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3051/tuxtype_w_fonts-1.7.5.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3175/tuxtype_w_fonts-1.8.0.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
