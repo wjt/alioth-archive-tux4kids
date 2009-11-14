@@ -71,6 +71,17 @@
 				</table><br /><br />
 				<table class="dow">
 					<tr>
+						<th colspan="2">
+						FreeBSD
+						</th>
+					</tr>
+					<tr>
+						<td width="80px"><img src="images/freebsd-logo.png" alt="FreeBSD Logo" align="top" /></td>
+						<td>The Tux4Kids applications run perfectly on the BSD platforms. All of are apps are included in the <a href="http://www.freebsd.org/ports/master-index.html">FreeBSD Ports Collection</a>, as well as NetBSD's cross platform  <a href="http://www.netbsd.org/docs/software/packages.html">Packages  Collection</a>.  As of this writing, some of the BSD ports/packages are outdated.</td>
+					</tr>
+				</table><br /><br />
+				<table class="dow">
+					<tr>
 						<th colspan=2" width="700px">Source</th>
 						<td>
 							<a href="https://alioth.debian.org/frs/download.php/3175/tuxtype_w_fonts-1.8.0.tar.gz"><img src="images/dbutton.png" alt="Download"></a>

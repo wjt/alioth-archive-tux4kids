@@ -10,8 +10,8 @@
 					<li><a href="download.php"><span>Downloads</span></a></li>
 					<li><a href="screens.php"><span>Screenshots</span></a></li>
 					<li><a href="help.php"><span>Get help</span></a></li>
-					<li><a href="other.php"><span>Other Tux4Kids Projects</span></a></li>
-					<li><a href="http://tux4kids.alioth.debian.org"><span>Back to Tux4Kids Home</span></a></li>
+					<li><a href="other.php"><span>Other Projects</span></a></li>
+					<li><a href="http://tux4kids.alioth.debian.org"><span>Back to Tux4Kids</span></a></li>
 				</ul>
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
