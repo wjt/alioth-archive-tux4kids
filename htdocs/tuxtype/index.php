@@ -10,8 +10,8 @@
 					<li><a href="download.php"><span>Downloads</span></a></li>
 					<li><a href="screens.php"><span>Screenshots</span></a></li>
 					<li><a href="help.php"><span>Get help</span></a></li>
-					<li><a href="other.php"><span>Other Projects</span></a></li>
-					<li><a href="http://tux4kids.alioth.debian.org"><span>Back to Tux4Kids</span></a></li>
+					<li><a href="other.php"><span>Other Tux4Kids Projects</span></a></li>
+					<li><a href="http://tux4kids.alioth.debian.org"><span>Back to Tux4Kids Home</span></a></li>
 				</ul>
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -23,6 +23,18 @@
 				<br />
 				TuxTyping is an educational typing tutor for kids starring Tux, the Linux penguin. This educational game comes with two different games for practicing your typing,
 				and having a great time doing it.<br />
+				<br />
+				<table class="front">
+					<tr>
+						<th><b>NEWS, 2009-11-10: New Tux Type release!</b></th>
+					</tr>
+					<tr>
+						<td>
+						Version 1.8.0 of Tux Typing has been released and is available for download at this site. This release includes many new word lists and lessons, as well as all-new high-resolution background images and new music files for the "fish" game.  Additionally, Tux Typing 1.8.0 includes the first public rlease of the new word list editor from GSoC 2009 - it is now possible to create custom word lists from with Tux Typing itself.<br />
+						The source code and a Windows installer are available here at Alioth, and RPM packages can be obtained via the openSUSE build service <a href="http://software.opensuse.org/search">search page</a>.  Mac users are encouraged to check back for the OS-X build, which hopefully will be available in the next few days.
+						</td>
+					</tr>
+				</table>
 				<br />
 				<table class="front">
 					<tr>
@@ -38,32 +50,6 @@
 					</tr>
 				</table>
 				<br />
-				<table class="front">
-					<tr>
-						<th>NEWS, 2008-12-08: Updated release Tux Typing</th>
-					</tr>
-					<tr>
-						<td>
-						Tux Typing 1.7.2 is available for download. Tux Typing 1.7.2 addresses several important issues with the previous release. It
-						has been tested on several Linux distros and on Windows XP, and the recent problems appear to be resolved. Anyone who
-						tried unsuccessfully to use the 1.7.0 release of Tux Typing should definitely check this one out.
-						</td>
-					</tr>
-				</table>
-				<br />
-				<table class="front">
-					<tr>
-						<th>NEWS, 2008-12-08: Tux Typing 1.7.0 Released!</th>
-					</tr>
-					<tr>
-						<td>
-						The Tux4Kids team is pleased to announce the release of TuxType 1.7.0! The usual source tarball and Win32 installer are available
-						for download as of this writing. This release reflects a great deal of work by our Google Summer of Code students, Mobin Mohan
-						and Sreyas Kurumanghat, as their mentors and the rest of the Tux Typing contributors. The most important enhancements are
-						listed below. Also, themes and translations for several additional Indic languages have been added.
-						</td>
-					</tr>
-				</table>
 			</div>
 <?php include ('includes/header.php');?>
 		</div>
