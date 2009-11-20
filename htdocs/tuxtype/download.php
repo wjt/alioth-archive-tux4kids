@@ -53,9 +53,9 @@
 					<tr>
 						<td width="80px"><img src="images/linux-ubuntu.gif" alt="Ubuntu Logo" align="top" /></td>
 						<td>If you run Debian simply open a terminal and run:<br />
-						<kbd>sudo aptitude install tuxmath</kbd></td>
+						<kbd>sudo aptitude install tuxtype</kbd></td>
 						<td>For Ubuntu users or anyone who prefers "apt-get" over "aptitude", the command is:<br />
-						<kbd>sudo apt-get install tuxmath</kbd></td>
+						<kbd>sudo apt-get install tuxtype</kbd></td>
 					</tr>
 				</table><br /><br />
 				<table class="dow">
