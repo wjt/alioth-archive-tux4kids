@@ -39,7 +39,23 @@
 			Mac OSX releases of TuxMath but working on other platforms, too)<br />
 			<br />
 			
-			<b>SVN checkout (TuxMath and TuxTyping)</b><br />
+			<b>NOTE: TuxMath and TuxTyping are changing to git for source code management as of 23 Jan 2010!</b><br />
+			The git repositories for the Tux4Kids subprojects (tuxmath, tuxtype, tux4kids-admin, tux4kids-web, and t4kcommon) have been
+			created and will become the official method of code submission as of Jan 23.  Temporarily, they are located on the Alioth server
+			under alioth.debian.org/git/tux4kids/test/ with the names as listed above.  They can be cloned for testing with e.g.<br /><br />
+
+			git clone git+ssh://dbruce-guest@git.debian.org/git/tux4kids/test/tuxmath<br /><br />
+
+			When our git repositories are officially active, they will be located directly in /git/tux4kids and will have a *.git extension,
+			e.g:<br /><br />
+			git clone git+ssh://dbruce-guest@git.debian.org/git/tux4kids/tuxmath.git<br /><br />
+
+			Anonymous read-only cloning will also be supported but isn't yet working. <br /><br />
+			Note that with git, each project will have its own repository, rather than a single "tux4kids" repository for the entire collection.
+                        This is being done because git does not have the concept of partial-tree checkouts.
+			
+
+			<b>SVN checkout (TuxMath and TuxTyping) ********* CHANGING SOON - SEE ABOVE *******</b><br />
 			The SVN site is hosted on <a href="http://tux4kids.alioth.debian.org/">Alioth</a> (please do not download the SourceForge SVN
 			tree, it could be out of date). You can do an "anonymous" checkout in the following way:<br />
 			<kbd>svn co svn://svn.debian.org/tux4kids/</kbd><br />
@@ -55,8 +71,8 @@
 			Alioth account and check them in.<br />
 			<br />
 			<b>Copyright</b><br />
-			Tux4kids software is released under the GPL2. By commiting your code you agree to distribute your work under this
-			license as well. Please state so in the headers of the source files, including svg images. Thanks!
+			Tux4kids software has historically been a "GPL2 or later" project. By commiting your code you agree to distribute your work under this
+			license as well. All source files should have a copyright and license statement.  We are currently assessing whether to move to GPLv3+.
 			<br />
 			<br />
 							
