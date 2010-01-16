@@ -44,18 +44,18 @@
 			created and will become the official method of code submission as of Jan 23.  Temporarily, they are located on the Alioth server
 			under alioth.debian.org/git/tux4kids/test/ with the names as listed above.  They can be cloned for testing with e.g.<br /><br />
 
-			git clone git+ssh://dbruce-guest@git.debian.org/git/tux4kids/test/tuxmath<br /><br />
+			<kbd>git clone git+ssh://dbruce-guest@git.debian.org/git/tux4kids/test/tuxmath</kbd><br /><br />
 
 			When our git repositories are officially active, they will be located directly in /git/tux4kids and will have a *.git extension,
 			e.g:<br /><br />
-			git clone git+ssh://dbruce-guest@git.debian.org/git/tux4kids/tuxmath.git<br /><br />
+			<kbd>git clone git+ssh://dbruce-guest@git.debian.org/git/tux4kids/tuxmath.git</kbd><br /><br />
 
 			Anonymous read-only cloning will also be supported but isn't yet working. <br /><br />
 			Note that with git, each project will have its own repository, rather than a single "tux4kids" repository for the entire collection.
                         This is being done because git does not have the concept of partial-tree checkouts.
 			
 
-			<b>SVN checkout (TuxMath and TuxTyping) ********* CHANGING SOON - SEE ABOVE *******</b><br />
+			<br /><br /><b>SVN checkout (TuxMath and TuxTyping) ********* CHANGING SOON - SEE ABOVE *******</b><br />
 			The SVN site is hosted on <a href="http://tux4kids.alioth.debian.org/">Alioth</a> (please do not download the SourceForge SVN
 			tree, it could be out of date). You can do an "anonymous" checkout in the following way:<br />
 			<kbd>svn co svn://svn.debian.org/tux4kids/</kbd><br />
