@@ -28,6 +28,7 @@
 				customized, and they are supported by active communities of volunteer developers.<br />
 				Whether you're a parent, a teacher, or a kid, give Tux4Kids software a try!<br />
 				<br />
+				The official tester for TuxMath is Laura Bruce.<br />
 				<table class="front">
 					<tr>
 						<th><b>NEWS, 2009-11-10: New Tux Type release!</b></th>
