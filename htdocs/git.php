@@ -22,14 +22,15 @@
 			<div class="col2">
 				Tux4kids has now officially switched from Subversion to Git. The old monolithic 
 				"tux4kids" svn repository has been replaced by five git repositories, one for 
-				each subproject, located at git.debian.org/git/tux4kids/*:
+				each subproject, located at git.debian.org/git/tux4kids/*:<br />
  
-				<br /><br />tuxmath.git
-				<br />tuxtype.git
-				<br />t4kcommon.git
-				<br />tux4kids-admin.git
-				<br />tux4kids-web.git
  
+				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/tuxmath.git</a></li>
+				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/tuxtype.git</a></li>
+				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/tux4kids-web.git</a></li>
+				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/tux4kids-admin.git</a></li>
+				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/t4kcommon.git</a></li>
+
 				<br /><br />The repositories may be accessed in several ways (change "tuxmath" to name of 
 				desired subproject as needed):
  
