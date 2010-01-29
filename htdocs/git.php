@@ -24,26 +24,26 @@
 				"tux4kids" svn repository has been replaced by five git repositories, one for 
 				each subproject:
  
-				tuxmath.git
-				tuxtype.git
-				t4kcommon.git
-				tux4kids-admin.git
-				tux4kids-web.git
+				<br />tuxmath.git
+				<br />tuxtype.git
+				<br />t4kcommon.git
+				<br />tux4kids-admin.git
+				<br />tux4kids-web.git
  
-				The repositories may be accessed in several ways (change "tuxmath" to name of 
+				<br />The repositories may be accessed in several ways (change "tuxmath" to name of 
 				desired subproject as needed):
  
-				<b>Working with the Repository</b><br />
+				<br /><br /><b>Working with the Repository</b><br />
 				1. Full "read/write" cloning for members of the Tux4Kids project on Alioth:
  
-					<kbd>git clone git+ssh://YOUR_ALIOTH_USERID@git.debian.org/git/tux4kids/tuxmath.git</kbd><br /><br />
+					<br /><kbd>git clone git+ssh://YOUR_ALIOTH_USERID@git.debian.org/git/tux4kids/tuxmath.git</kbd><br /><br />
  
-				(obviously replacing YOUR_ALIOTH_USERID with your actual login).
+				<br />(obviously replacing YOUR_ALIOTH_USERID with your actual login).
  
-				<b>Viewing the Repository</b><br />
+				<br /><br /><b>Viewing the Repository</b><br />
 				2. Anonymous read-only cloning:
  
-					<kbd>git clone git://git.debian.org/git/tux4kids/tuxmath.git</kbd><br /><br />
+					<br /><kbd>git clone git://git.debian.org/git/tux4kids/tuxmath.git</kbd><br /><br />
  
 				or
  
