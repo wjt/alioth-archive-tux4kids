@@ -38,7 +38,7 @@
  
 				<br />	<br /><kbd>git clone git+ssh://YOUR_ALIOTH_USERID@git.debian.org/git/tux4kids/tuxmath.git</kbd>
  
-				<br />(obviously replacing YOUR_ALIOTH_USERID with your actual login). 
+				<br /><br />(obviously replacing YOUR_ALIOTH_USERID with your actual login). 
 				You will be prompted for your alioth password each time you use the repository.
  
 				<br /><br /><b>Viewing the Repository</b><br /><br />
