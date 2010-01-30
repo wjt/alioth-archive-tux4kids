@@ -27,10 +27,10 @@
 				1. To browse with web interface, click on:<br /><br />
  
 				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/tuxmath.git</a></li>
-				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/tuxtype.git</a></li>
-				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/tux4kids-web.git</a></li>
-				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/tux4kids-admin.git</a></li>
-				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/t4kcommon.git</a></li>
+				<li><a href="http://git.debian.org/?p=tux4kids/tuxtype.git">http://git.debian.org/?p=tux4kids/tuxtype.git</a></li>
+				<li><a href="http://git.debian.org/?p=tux4kids/tux4kids-web.git">http://git.debian.org/?p=tux4kids/tux4kids-web.git</a></li>
+				<li><a href="http://git.debian.org/?p=tux4kids/tux4kids-admin.git">http://git.debian.org/?p=tux4kids/tux4kids-admin.git</a></li>
+				<li><a href="http://git.debian.org/?p=tux4kids/t4kcommon.git">http://git.debian.org/?p=tux4kids/t4kcommon.git</a></li>
 
  
 				<br /><br /><b>Working with the Repository</b><br /><br />
