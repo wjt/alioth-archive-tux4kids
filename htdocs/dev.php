@@ -32,7 +32,7 @@
 			<a href="http://www.libsdl.org/">SDL</a> (see in particular the DocWiki link)<br />
 			<font style="font-size: 10px;">We also use SDL_image (graphics files), SDL_mixer (sound), SDL_ttf (fonts), and will soon add
 			SDL_net (network). Documentation for these is available on the DocWiki.</font><br /> 
-			<a href="http://book.git-scm.com/com/">Git</a> (The well-known "Git Community Book")<br />
+			<a href="http://book.git-scm.com/">Git</a> (The well-known "Git Community Book")<br />
 			<a href="http://www.gnu.org/software/gettext/">libintl/gettext</a> (for internationalization, aka translation)<br />
 			<a href="http://www.gnu.org/software/automake/">Automake</a> (build system)<br />
 			<a href="http://www.cmake.org/cmake/help/documentation.html">CMake</a> (an alternative build system, used especially for our
