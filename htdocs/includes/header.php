@@ -6,7 +6,7 @@
 							High Quality Educational Software Alternatives
 						</td>
 						<td style="width: 10%;">
-							<img src="images/tux_family.png" alt="Tux_Family" />
+							<img src="images/tux_family2.png" alt="Tux_Family" />
 						</td>
 					</tr>
 				</table>
