@@ -12,7 +12,7 @@
 					<li><a href="tuxtyping.php"><span>TuxTyping</span></a></li>
 					<li><a href="dev.php" class="active"><span>For Developers</span></a></li>
 					<li><a href="mail.php"><span>Mailing Lists</span></a></li>
-					<li><a href="svn.php"><span>SVN Repository</span></a></li>
+					<li><a href="git.php"><span>Git Repository</span></a></li>
 					<li><a href="https://alioth.debian.org/forum/?group_id=31080"><span>Forums</span></a></li>
 				</ul>
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -22,7 +22,7 @@
 			<div class="col2">
 			<b>General information</b><br />
 			Tux4Kids programs are written in C and use Simple DirectMedia Layer (SDL) for the graphics. The programs are portable, running
-			on Linux, Windows, Mac OSX, and BeOS. They are internationalized into many languages, and developers should keep the needs of
+			on Linux, Windows, Mac OSX, and BeOS/Haiku. They are internationalized into many languages, and developers should keep the needs of
 			non-English speakers in mind.<br />
 			Most development happens on Linux, and the tools for development are readily available on any modern Linux distribution.
 			However, it should also be possible to develop on other platforms.<br />
@@ -32,45 +32,21 @@
 			<a href="http://www.libsdl.org/">SDL</a> (see in particular the DocWiki link)<br />
 			<font style="font-size: 10px;">We also use SDL_image (graphics files), SDL_mixer (sound), SDL_ttf (fonts), and will soon add
 			SDL_net (network). Documentation for these is available on the DocWiki.</font><br /> 
-			<a href="http://svnbook.red-bean.com/">Subversion</a> (see in particular Chapter 2, "Basic Usage")<br />
+			<a href="http://book.git-scm.com/">Git</a> (The well-known "Git Community Book")<br />
 			<a href="http://www.gnu.org/software/gettext/">libintl/gettext</a> (for internationalization, aka translation)<br />
 			<a href="http://www.gnu.org/software/automake/">Automake</a> (build system)<br />
 			<a href="http://www.cmake.org/cmake/help/documentation.html">CMake</a> (an alternative build system, used especially for our
 			Mac OSX releases of TuxMath but working on other platforms, too)<br />
 			<br />
 			
-			<b>NOTE: TuxMath and TuxTyping are changing to git for source code management as of 23 Jan 2010!</b><br />
-			The git repositories for the Tux4Kids subprojects (tuxmath, tuxtype, tux4kids-admin, tux4kids-web, and t4kcommon) have been
-			created and will become the official method of code submission as of Jan 23.  Temporarily, they are located on the Alioth server
-			under alioth.debian.org/git/tux4kids/test/ with the names as listed above.  They can be cloned for testing with e.g.<br /><br />
-
-			<kbd>git clone git+ssh://dbruce-guest@git.debian.org/git/tux4kids/test/tuxmath</kbd><br /><br />
-
-			When our git repositories are officially active, they will be located directly in /git/tux4kids and will have a *.git extension,
-			e.g:<br /><br />
-			<kbd>git clone git+ssh://dbruce-guest@git.debian.org/git/tux4kids/tuxmath.git</kbd><br /><br />
-
-			Anonymous read-only cloning will also be supported but isn't yet working. <br /><br />
-			Note that with git, each project will have its own repository, rather than a single "tux4kids" repository for the entire collection.
-                        This is being done because git does not have the concept of partial-tree checkouts.
-			
-
-			<br /><br /><b>SVN checkout (TuxMath and TuxTyping) ********* CHANGING SOON - SEE ABOVE *******</b><br />
-			The SVN site is hosted on <a href="http://tux4kids.alioth.debian.org/">Alioth</a> (please do not download the SourceForge SVN
-			tree, it could be out of date). You can do an "anonymous" checkout in the following way:<br />
-			<kbd>svn co svn://svn.debian.org/tux4kids/</kbd><br />
-			This will get you the source code, but you won\'t be able to check in your modifications, because you need to have an account
-			on Alioth.<br /><br />
-			To get a fully-functional SVN checkout, <a href="http://alioth.debian.org">apply for an Alioth account</a> and wait for administrator
-			approval. Once you have approval, do the checkout in the following way:<br />
-			<kbd>svn co svn+ssh://fred-guest@svn.debian.org/svn/tux4kids</kbd><br />
-			assuming your user name is "fred-guest". You will have to supply your password (perhaps more than once; note you can upload an
-			SSH key to Alioth and bypass the requirement to type the password each time you make a commit).<br />
-			With this checkout, you can use the full functionality of SVN and distribute your improvements to all the developers. If you
-			started developing with an anonymous checkout, you can manually copy any changes over to the new directory created with your
-			Alioth account and check them in.<br />
+			<b>Tux4Kids now uses Git for source code 
+management</b><br />
+			The git repositories for the Tux4Kids subprojects 
+(tuxmath.git, tuxtype.git, tux4kids-admin.git, tux4kids-web.git, and t4kcommon.git) are located on the Alioth server
+			under alioth.debian.org/git/tux4kids/ with the 
+names as listed above.  See <li><a href="git.php"><span>Git Repository</span></a></li> for details.
 			<br />
-			<b>Copyright</b><br />
+			<b>Copyright and License</b><br />
 			Tux4kids software has historically been a "GPL2 or later" project. By commiting your code you agree to distribute your work under this
 			license as well. All source files should have a copyright and license statement.  We are currently assessing whether to move to GPLv3+.
 			<br />
@@ -81,12 +57,7 @@
 			<li>Installing the required libraries (from distributor packages on Linux): be sure to install the "dev" versions as well, so
 			that you have the header files.</li>
 			<li>Documentation about compiling is available in the "doc" directory in trunk.</li>
-			<li>SVN branches: if your work is "disruptive" (meaning it\'s a fairly large change in core aspects of the code), consider
-			working in a branch.  You can then make regular commits without disrupting trunk.<br />
-			However, it is dangerous to work for very long in a branch:  odds are high that your work will be incompatible (in either small
-			or large ways) with other ongoing development, your work will not get the kind of oversight that trunk gets, and in any event
-			your work is not useful until you merge to trunk.  For these reasons you should merge to trunk at any available opportunity.<br />
-			If your work is not disruptive, it may be advisable to work directly in trunk.</li>
+			<li>Branches: Git supports branching and merging extremely well.  In particular, if you create your own branch for something major or disruptive, you can keep it current with other changes coming into the main trunk by frequent rebasing.  This greatly reduces the old problem with SVN-style branches where it could become very difficult to merge the branch back into the trunk. If you join the project, you will be able to push directly into our bare repositories. However, if you have something that could be disruptive, it is best to check with a maintainer first.
 			<li>Please keep the changelog (in the doc/ directory) updated!</li>
 			<li>For information about preparing strings appropriately for internationalization, see
 			<a href="http://www.gnu.org/software/gettext/manual/html_node/Preparing-Strings.html#Preparing-Strings">these</a> <a href="http://techbase.kde.org/Development/Tutorials/Localization/i18n_Mistakes#Pitfall_.232:_Word_Puzzles">tips</a>. TuxMath now has built-in linebreaking code (adopted from gettext) in the "linewrap" source file.</li>
