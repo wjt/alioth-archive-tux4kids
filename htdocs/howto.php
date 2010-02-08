@@ -7,7 +7,7 @@
 					<li><a href="projects.php"><span>Projects</span></a></li>
 					<li><a href="dev.php"><span>For Developers</span></a></li>
 					<li><a href="mail.php"><span>Mailing Lists</span></a></li>
-					<li><a href="svn.php"><span>SVN Repository</span></a></li>
+					<li><a href="git.php"><span>Git Repository</span></a></li>
 					<li><a href="https://alioth.debian.org/forum/?group_id=31080"><span>Forums</span></a></li>
 				</ul>
 				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />

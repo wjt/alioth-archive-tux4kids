@@ -30,79 +30,47 @@
 				<br />
 				<table class="front">
 					<tr>
+						<th><b>NEWS, 2010-02-07: Project update</b></th>
+					</tr>
+					<tr>
+						<td>
+						From the surrogate webmaster:<br />
+						Tux4Kids has switched from Subversion to Git for its file repositories, including
+						the files storing the content for this website. There is still a lot of great new
+						code from last summer that needs some finishing touches. As the lack of recent
+						releases seems to be an obstacle to further progress, I intend to post "as is"
+						builds for TuxType and TuxMath.  For TuxType, 1.8.1 should be very feature-similar
+						to 1.8.0, with several rough edges fixed.  For TuxMath, 1.8.0 will include a
+						complete overhaul of the menu code with SVG-based graphics, as well as the first
+						public view of LAN-based multiplayer support.  There will certainly be some rough
+						spots, but I think we need to "release early and often" to keep the project moving.<br /><br />
+						David Bruce<br />
+						</td>
+					</tr>
+				</table>
+				<br />
+				<table class="front">
+					<tr>
 						<th><b>NEWS, 2009-11-10: New Tux Type release!</b></th>
 					</tr>
 					<tr>
 						<td>
-						Version 1.8.0 of Tux Typing has been released and is available for download at this site. This release includes many new word lists and lessons, as well as all-new high-resolution background images and new music files for the "fish" game.  Additionally, Tux Typing 1.8.0 includes the first public release of the new word list editor from GSoC 2009 - it is now possible to create custom word lists from within Tux Typing itself.<br />
-						The source code and a Windows installer are available here at Alioth, and RPM packages can be obtained via the openSUSE build service <a href="http://software.opensuse.org/search">search page</a>.  Mac users are encouraged to check back for the OS-X build, which hopefully will be available in the next few days.
+						Version 1.8.0 of Tux Typing has 
+						been released and is available for download at this site. This release includes 
+						many new word lists and lessons, as well as all-new high-resolution background 
+						images and new music files for the "fish" game.  Additionally, Tux Typing 1.8.0 
+						includes the first public release of the new word list editor from GSoC 2009 - 
+						it is now possible to create custom word lists from within Tux Typing 
+						itself.<br />
+												The source code and a Windows 
+						installer are available here at Alioth, and RPM packages can be obtained via 
+						the openSUSE build service <a href="http://software.opensuse.org/search">search 
+						page</a>.  Mac users are encouraged to check back for the OS-X build, which 
+						hopefully will be available in the next few days.
 						</td>
 					</tr>
 				</table>
 				<br />
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 2009-10-06: Webpage update</b></th>
-					</tr>
-					<tr>
-						<td>
-						From the webmaster:<br />
-						After some trouble with SVN, we have been able to update and make corrections to the website once again. All
-						three projects are still being actively worked on, even though there may not be much activity on the front page
-						here. Keep checking back for the next versions of each of the programs. Alot of work was done over the summer by
-						the GSOC particpants. Subscribe to our <a href="mail.php">Mailing Lists</a> to keep up with every detail. Questions
-						can be submitted in the <a href="https://alioth.debian.org/forum/?group_id=31080">Forums</a> or on the mailing
-						lists. Any problems, suggestions, typos, etc. please direct to the Tux4Kids discuss list, and I will make the
-						corrections as soon as possible. 
-						</td>
-					</tr>
-				</table>
-				<br />
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 2009-03-19: Tux4Kids accepted for GSoC 2009!</b></th>
-					</tr>
-					<tr>
-						<td>
-						Tux4Kids has been accepted as a participating organization for this year's Google Summer of Code. We are very excited
-						about another phase of productive coding. All three Tux4Kids programs (Tux Paint, Tux Math and Tux Typing) will take part
-						again this year. The GSoC site has full information, including the list of particating organizations and their applications for
-						students. The list of "Ideas" for Tux4Kids is on the GSoC site. The student application period is 23 March to 03 April.
-						</td>
-					</tr>
-				</table>
-				<br />
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 2009-03-14: Tux4Kids planning to participate in GSoC 2009</b></th>
-					</tr>
-					<tr>
-						<td>
-						Tux4Kids has submitted its application to participate in Google's Summer of Code again for 2009. We will be informed on
-						March 18 whether our application has been accepted. Further information will be posted at that time.
-						</td>
-					</tr>
-				</table>
-				<br />
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 2009-02-26: Current RPMs available for multiple distros!</b></th>
-					</tr>
-					<tr>
-						<td>
-						Tux4Kids is now an active participant in the OpenSUSE Build Service, which provides the infrastructure for automated package
-						building for most linux distributions. Tuxmath and Tuxtype packages can be located through the build service search page. <a href="http://software.opensuse.org/search">This
-						search page</a> will locate both the most recent stable releases, located in the OpenSUSE Education project, as well as "preview"
-						releases, located in my home project but available to anyone. The "preview" packages are now generated almost automatically
-						and will track the status of the Subversion repository quite closely.<br />
-						<br />
-						Currently supported distributions include OpenSUSE (10.3, 11.0, 11.1, Factory); Fedora 9 and 10; and Mandriva 2008 and 2009.
-						All of these packages have been built for both i586 and x86_64 architectures. Testing is needed for all of the preview packages -
-						please report any issues to tuxmath-devel@lists.sourceforge.net. The Build System also supports .deb packaging for recent Debian
-						and Ubuntu releases, but building of preview .deb packages is not yet set up. Of course, official releases of all Tux4Kids apps are included the standard Debian and Ubuntu repositories.
-						</td>
-					</tr>
-				</table>
 			</div>
 			<?php include ('includes/header.php');?>
 		</div>
