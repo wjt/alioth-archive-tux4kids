@@ -52,7 +52,7 @@ a kid, give Tux4Kids software a try!<br />
 				<table class="front">
 					<tr>
 						<th><b>NEWS, 
-2010-02-07: Project update</b></th>
+2010-03-11: Google Summer of Code 2010</b></th>
 					</tr>
 					<tr>
 						<td>
