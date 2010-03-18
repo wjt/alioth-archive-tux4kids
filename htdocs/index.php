@@ -52,6 +52,36 @@ a kid, give Tux4Kids software a try!<br />
 				<table class="front">
 					<tr>
 						<th><b>NEWS, 
+2010-03-18: Tux4Kids Accepted for GSoC 2010!</b></th>
+					</tr>
+					<tr>
+						<td>
+				<br>
+				Tux4Kids has been accepted as a participating organization for 
+				Google's 2010 Summer of Code.  As noted previously, interested 
+				university students should follow the developer mailing lists and 
+				familiarize themselves with the source code for the project(s) of 
+				their interest. In 2009, Tux4Kids was allocated five student slots by 
+				Google.  So far, there is no word on whether that number will increase 
+				or decrease for 2010. <br /><br /> 
+
+				Note that this year we will be 
+				emphasizing projects that are focused, well thought-out, and 
+				completable within the GSoC 2010 time frame.  Successful projects 
+				should be release-ready by the end of the summer, including testing, 
+				documentation, and merging into the program's mainline ("master") 
+				branch.<br /><br />
+
+For more specific information, go to the<a href="http://socghop.appspot.com">GSoC website</a>.<br /><br />
+
+				David Bruce<br />
+						</td>
+					</tr>
+				</table>
+				<br />
+				<table class="front">
+					<tr>
+						<th><b>NEWS, 
 2010-03-11: Google Summer of Code 2010</b></th>
 					</tr>
 					<tr>
