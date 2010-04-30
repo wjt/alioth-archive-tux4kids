@@ -35,7 +35,7 @@
 					<tr>
 						<th colspan="2" width="700px">Macintosh OS X</th>
 						<td>	
-							<a href="https://alioth.debian.org/frs/download.php/3014/tuxmath-1.7.2-macosx.dmg"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3272/tuxmath-1.8.0-macosx.dmg"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
