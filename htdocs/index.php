@@ -52,6 +52,22 @@ a kid, give Tux4Kids software a try!<br />
 
 				<table class="front">
 					<tr>
+						<th><b>NEWS, 2010-05-02: New releases of Tux Math and Tux Typing!</b></th>
+					</tr>
+					<tr>
+						<td>
+				<br>
+Tux Math 1.8.0 and Tux Typing 1.8.1 have been released in source-code form, and are available for download in the usual locations on this site. As of yet, there are no binaries, which hopefully will be addressed soon.  Tux Math 1.8.0 includes the new LAN mode for direct multiplayer competition over a local network.  Also, it now uses Scalable Vector Graphics for better appearance independent of screen resolution.  Tux Typing 1.8.1 has a number of fixes since 1.8.0, but is overall very similar from a user's perspective.<br /><br />
+
+				David Bruce<br />
+						</td>
+					</tr>
+				</table>
+				<br />
+				
+
+				<table class="front">
+					<tr>
 						<th><b>NEWS, 2010-05-02: Tux4Kids GSoC 2010 students announced!</b></th>
 					</tr>
 					<tr>
