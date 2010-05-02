@@ -68,13 +68,6 @@ Joao Moriera: Tux Paint collaborative web application. <br /><br />
 Congratulations to this year's GSoC students, and here's to a fun summer of programming!
 				<br /><br /> 
 
-				Note that this year we will be 
-				emphasizing projects that are focused, well thought-out, and 
-				completable within the GSoC 2010 time frame.  Successful projects 
-				should be release-ready by the end of the summer, including testing, 
-				documentation, and merging into the program's mainline ("master") 
-				branch.<br /><br />
-
 For more specific information, go to the<a href="http://socghop.appspot.com">GSoC website</a>.<br /><br />
 
 				David Bruce<br />
