@@ -49,6 +49,39 @@ active communities of volunteer developers.<br />
 				Whether you're a parent, a teacher, or 
 a kid, give Tux4Kids software a try!<br />
 				<br />
+
+				<table class="front">
+					<tr>
+						<th><b>NEWS, 2010-05-02: Tux4Kids GSoC 2010 students announced!</b></th>
+					</tr>
+					<tr>
+						<td>
+				<br>
+			Google recently announced the students accepted for this year's Summer of Code.  There were six successful applicants with proposals to work on Tux4Kids:<br /><br />
+Wenyuan Guo: improved use of SVG in TuxMath	<br />
+Brendan Luchen: development of libt4k-common<br />
+Jesus Magar: "Tux History", an "Age of Empires"-style game with educational content.<br />
+Vikas Singh: development of tux4kids-admin. 	<br />
+Ankit Choudhary: accessibility improvements for Tux Paint <br />
+Joao Moriera: Tux Paint collaborative web application. <br /><br />
+
+Congratulations to this year's GSoC students, and here's to a fun summer of programming!
+				<br /><br /> 
+
+				Note that this year we will be 
+				emphasizing projects that are focused, well thought-out, and 
+				completable within the GSoC 2010 time frame.  Successful projects 
+				should be release-ready by the end of the summer, including testing, 
+				documentation, and merging into the program's mainline ("master") 
+				branch.<br /><br />
+
+For more specific information, go to the<a href="http://socghop.appspot.com">GSoC website</a>.<br /><br />
+
+				David Bruce<br />
+						</td>
+					</tr>
+				</table>
+				<br />
 				<table class="front">
 					<tr>
 						<th><b>NEWS, 
@@ -126,31 +159,6 @@ LAN-based multiplayer support.  There will certainly be some rough
 need to "release early and often" to keep the project moving.<br /><br 
 />
 						David Bruce<br />
-						</td>
-					</tr>
-				</table>
-				<br />
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 
-2009-11-10: New Tux Type release!</b></th>
-					</tr>
-					<tr>
-						<td>
-						Version 1.8.0 of Tux 
-Typing has been released and is available for download at this site.  
-This release includes many new word lists and lessons, as well as 
-all-new high-resolution background images and new music files for the 
-"fish" game.  Additionally, Tux Typing 1.8.0 includes the first public 
-release of the new word list editor from GSoC 2009 - it is now 
-possible to create custom word lists from within Tux Typing itself.<br 
-/>
-												The 
-source code and a Windows installer are available here at Alioth, and 
-RPM packages can be obtained via the openSUSE build service <a 
-href="http://software.opensuse.org/search">search page</a>.  Mac users 
-are encouraged to check back for the OS-X build, which hopefully will 
-be available in the next few days.
 						</td>
 					</tr>
 				</table>
