@@ -21,13 +21,14 @@
 			</div>
 			<div class="col2">
 				Tux4kids has now officially switched from Subversion to Git. The old monolithic 
-				"tux4kids" svn repository has been replaced by five git repositories, one for 
+				"tux4kids" svn repository has been replaced by six git repositories, one for 
 				each subproject, located at git.debian.org/git/tux4kids/*:<br /><br />
 
 				<br /><b>Browsable Links:</b><br /><br />
 
 				<li><a href="http://git.debian.org/?p=tux4kids/tuxmath.git">http://git.debian.org/?p=tux4kids/tuxmath.git</a></li>
 				<li><a href="http://git.debian.org/?p=tux4kids/tuxtype.git">http://git.debian.org/?p=tux4kids/tuxtype.git</a></li>
+				<li><a href="http://git.debian.org/?p=tux4kids/tuxhistory.git">http://git.debian.org/?p=tux4kids/tuxhistory.git</a></li>
 				<li><a href="http://git.debian.org/?p=tux4kids/tux4kids-web.git">http://git.debian.org/?p=tux4kids/tux4kids-web.git</a></li>
 				<li><a href="http://git.debian.org/?p=tux4kids/tux4kids-admin.git">http://git.debian.org/?p=tux4kids/tux4kids-admin.git</a></li>
 				<li><a href="http://git.debian.org/?p=tux4kids/t4kcommon.git">http://git.debian.org/?p=tux4kids/t4kcommon.git</a></li>
@@ -56,7 +57,7 @@
 				corrected in the near future.
  
 				There are two remaining known issues with the migration to git.  Namely, there 
-				are a couple of areas from the old repository that are not included in the five 
+				are a couple of areas from the old repository that are not included in the six 
 				new git repositories, namely "tuxmath/people", 
 				"branches/commonification/tuxmath", and "branches/commonification/tuxtype".
 				
