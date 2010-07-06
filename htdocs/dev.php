@@ -44,8 +44,9 @@ management</b><br />
 			The git repositories for the Tux4Kids subprojects 
 (tuxmath.git, tuxtype.git, tux4kids-admin.git, tux4kids-web.git, and t4kcommon.git) are located on the Alioth server
 			under alioth.debian.org/git/tux4kids/ with the 
-names as listed above.  See <li><a href="git.php"><span>Git Repository</span></a></li> for details.
+names as listed above.  See <li><a href="git.php"><span>Git Repository</span></a></li> for details.<br />
 			<br />
+
 			<b>Copyright and License</b><br />
 			Tux4kids software has historically been a "GPL2 or later" project. By commiting your code you agree to distribute your work under this
 			license as well. All source files should have a copyright and license statement.  We are currently assessing whether to move to GPLv3+.
