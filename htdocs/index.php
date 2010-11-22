@@ -52,12 +52,12 @@ a kid, give Tux4Kids software a try!<br />
 
 				<table class="front">
 					<tr>
-						<th><b>NEWS, 2010-05-02: New releases of Tux Math and Tux Typing!</b></th>
+						<th><b>NEWS, 2010-11-22: New release of Tux Math!</b></th>
 					</tr>
 					<tr>
 						<td>
 				<br>
-Tux Math 1.8.0 and Tux Typing 1.8.1 have been released in source-code form, and are available for download in the usual locations on this site. As of yet, there are no binaries, which hopefully will be addressed soon.  Tux Math 1.8.0 includes the new LAN mode for direct multiplayer competition over a local network.  Also, it now uses Scalable Vector Graphics for better appearance independent of screen resolution.  Tux Typing 1.8.1 has a number of fixes since 1.8.0, but is overall very similar from a user's perspective.<br /><br />
+Tux Math 1.9.0 has been released in source code form and as an executable win32 installer.  This release features LAN multiplayer action - all players compete to answer the same questions, and the first correct answer gets the points!  For the first time, the Windows build has proper library support to correctly display non-Western languages.  "Under the hood", the extensive code reworking has mostly been completed, so users can expect to see a resumption of work on improved visible features.  Most TuxMath users will want to obtain this significant upgrade.<br /><br />
 
 				David Bruce<br />
 						</td>
@@ -91,86 +91,6 @@ For more specific information, go to the<a href="http://socghop.appspot.com">GSo
 					</tr>
 				</table>
 				<br />
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 
-2010-03-18: Tux4Kids Accepted for GSoC 2010!</b></th>
-					</tr>
-					<tr>
-						<td>
-				<br>
-				Tux4Kids has been accepted as a participating organization for 
-				Google's 2010 Summer of Code.  As noted previously, interested 
-				university students should follow the developer mailing lists and 
-				familiarize themselves with the source code for the project(s) of 
-				their interest. In 2009, Tux4Kids was allocated five student slots by 
-				Google.  So far, there is no word on whether that number will increase 
-				or decrease for 2010. <br /><br /> 
-
-				Note that this year we will be 
-				emphasizing projects that are focused, well thought-out, and 
-				completable within the GSoC 2010 time frame.  Successful projects 
-				should be release-ready by the end of the summer, including testing, 
-				documentation, and merging into the program's mainline ("master") 
-				branch.<br /><br />
-
-For more specific information, go to the<a href="http://socghop.appspot.com">GSoC website</a>.<br /><br />
-
-				David Bruce<br />
-						</td>
-					</tr>
-				</table>
-				<br />
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 
-2010-03-11: Google Summer of Code 2010</b></th>
-					</tr>
-					<tr>
-						<td>
-				<br>
-				Tux4Kids is planning to participate in Google's Summer of Code again for 2010.  We will be submitting our application to be a participating project within the next 24 hours, and will hear next week if we have again been accepted.  Interested students should follow the tuxmath, tuxtype, and tuxpaint developers' lists.  Also, take a look at the source code for our programs.  Instructions for cloning the git repositories for tuxmath and tuxtype are available elsewhere on this page, whereas information for Tux Paint is available at http://www.tuxpaint.org.<br /><br />
-
-Further general announcements will be available here.  The specifics of the GSoC application process, and details concerning our participation, will be located at the <a 
-href="http://socghop.appspot.com">GSoC website</a>.
-
-				David Bruce<br />
-						</td>
-					</tr>
-				</table>
-				<br />
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 
-2010-02-07: Project update</b></th>
-					</tr>
-					<tr>
-						<td>
-						From the surrogate 
-webmaster:<br />
-						Tux4Kids has switched 
-from Subversion to Git for its file repositories, including
-						the files storing the 
-content for this website. There is still a lot of great new
-						code from last summer 
-that needs some finishing touches. As the lack of recent
-						releases seems to be 
-an obstacle to further progress, I intend to post "as is"
-						builds for TuxType and 
-TuxMath.  For TuxType, 1.8.1 should be very feature-similar
-						to 1.8.0, with several 
-rough edges fixed.  For TuxMath, 1.8.0 will include a
-						complete overhaul of 
-the menu code with SVG-based graphics, as well as the first
-						public view of 
-LAN-based multiplayer support.  There will certainly be some rough
-						spots, but I think we 
-need to "release early and often" to keep the project moving.<br /><br 
-/>
-						David Bruce<br />
-						</td>
-					</tr>
-				</table>
 				<br />
 			</div>
 			<?php include ('includes/header.php');?>
