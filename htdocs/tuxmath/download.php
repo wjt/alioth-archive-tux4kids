@@ -23,7 +23,7 @@
 					<tr>
 						<th colspan="2" width="700px">Windows(tested on 2000, XP, Vista)</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/2972/tuxmath-1.7.2-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3469/tuxmath-1.9.0-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
@@ -73,12 +73,24 @@
 					<tr>
 						<th colspan=2" width="700px">Source</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/2971/tuxmath_w_fonts-1.7.2.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3470/tuxmath_w_fonts-1.9.0.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
 						<td width="48px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
-						<td>Standard *.tar.gz "tarball" source archive, suitable for building using "./configure; make; sudo make install". See the README file for list of required libs.</td>
+						<td>Standard *.tar.gz "tarball" source archive, suitable for building using "./configure; make; sudo make install". IMPORTANT - now TuxMath requires that the t4k_common library be installed first (see below). See the README and INSTALL files for list of required libs.</td>
+					</tr>
+				</table><br /><br />
+				<table class="dow">
+					<tr>
+						<th colspan=2" width="700px">t4k_common library</th>
+						<td>
+							<a href="https://alioth.debian.org/frs/download.php/3439/t4k_common-0.0.3.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+						</td>
+					</tr>
+					<tr>
+						<td width="48px"><img src="images/gear.gif" alt="Gears" align="top" /></td>
+						<td>Standard *.tar.gz "tarball" source archive for the t4k_common library. This must be installed before building tuxmath-1.9.0 (or later) from source.  The Windows binary already has t4k_common included. The t4k_common libary can be built with "./configure; make; sudo make install" like other standard packages.  See README and INSTALL for details.</td>
 					</tr>
 				</table><br /><br />
 				If you are looking for earlier (or newer!) releases check out our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.
