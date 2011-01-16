@@ -97,4 +97,7 @@ For more specific information, go to the<a href="http://socghop.appspot.com">GSo
 		</div>
 	</div>
 </body>
+
+<!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Tux4Kids/148165518572421" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Tux4Kids">Tux4Kids</a><br/><a href="http://www.facebook.com/pages/Tux4Kids/148165518572421" target="_TOP" title="Tux4Kids"><img src="http://badge.facebook.com/badge/148165518572421.1140.258633898.png" width="120" height="173" style="border: 0px;" /></a><br/><a href="http://www.facebook.com/business/dashboard/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Promote Your Page Too</a><!-- Facebook Badge END -->
+
 </html>
