@@ -23,11 +23,12 @@ href="git.php"><span>Git Repository</span></a></li>
 					<li><a 
 href="https://alioth.debian.org/forum/?group_id=31080"><span>Forums</span></a></li>
 				</ul>
-				<br /><br /><br /><br /><br /><br 
-/><br /><br /><br /><br />
+	<!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Tux4Kids/148165518572421" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Tux4Kids">Tux4Kids</a><br/><a href="http://www.facebook.com/pages/Tux4Kids/148165518572421" target="_TOP" title="Tux4Kids"><img src="http://badge.facebook.com/badge/148165518572421.1140.258633898.png" width="180" height="173" style="border: 0px;" /></a><br/><a href="http://www.facebook.com/business/dashboard/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Promote Your Page Too</a><!-- Facebook Badge END -->
+
 				<br /><br /><br /><br /><br />
 				<img src="images/pow-fusionforge.png" 
 alt="Fusion Forge" />
+
 			</div>
 			<div class="col2">
 				<font style="font-size: 18px;">Welcome 
@@ -52,6 +53,38 @@ a kid, give Tux4Kids software a try!<br />
 
 				<table class="front">
 					<tr>
+						<th><b>NEWS, 2011-01-16: Tux4Kids is on Facebook</b></th>
+					</tr>
+					<tr>
+						<td>
+				<br>
+To help promote our educational software, we have created a Tux4Kids Facebook page.  The box on the left links to our page and allows you to "like" it.  Please help spread the word to any of your Facebook-using friends!
+				David Bruce<br />
+						</td>
+					</tr>
+				</table>
+				<br />
+				
+
+				<table class="front">
+					<tr>
+						<th><b>NEWS, 2011-01-16: Tux4Kids participates in Google Code-In</b></th>
+					</tr>
+					<tr>
+						<td>
+				<br>
+This year's Google Code-In has just finished, and Tux4Kids received a lot of attention from the 13-18 year old students competing in the contest.  The students completed nearly 100 tasks to help enhance Tux Paint, Tux Math, and Tux Typing.  These tasks included both coding and non-code contributions, such as translations, artwork, and documentation. Many of the tasks added features that will be very visible to users, as opposed to the "infrastructure" work that has occupied much of our efforts recently.  In particular, Tux Math's "Factoroids" activity has been extensively reworked, and is greatly improved with respect to both learning and gameplay (i.e. fun!).  We hope to have new releases available in the next few weeks once the new code is fully tested and stabilized.<br /><br />
+
+
+				David Bruce<br />
+						</td>
+					</tr>
+				</table>
+				<br />
+				
+
+				<table class="front">
+					<tr>
 						<th><b>NEWS, 2010-11-22: New release of Tux Math!</b></th>
 					</tr>
 					<tr>
@@ -66,35 +99,13 @@ Tux Math 1.9.0 has been released in source code form and as an executable win32 
 				<br />
 				
 
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 2010-05-02: Tux4Kids GSoC 2010 students announced!</b></th>
-					</tr>
-					<tr>
-						<td>
-				<br>
-			Google recently announced the students accepted for this year's Summer of Code.  There were six successful applicants with proposals to work on Tux4Kids:<br /><br />
-Wenyuan Guo: improved use of SVG in TuxMath	<br />
-Brendan Luchen: development of libt4k-common<br />
-Jesus Magar: "Tux History", an "Age of Empires"-style game with educational content.<br />
-Vikas Singh: development of tux4kids-admin. 	<br />
-Ankit Choudhary: accessibility improvements for Tux Paint <br />
-Joao Moriera: Tux Paint collaborative web application. <br /><br />
-
-Congratulations to this year's GSoC students, and here's to a fun summer of programming!
-				<br /><br /> 
-
-For more specific information, go to the<a href="http://socghop.appspot.com">GSoC website</a>.<br /><br />
-
-				David Bruce<br />
-						</td>
-					</tr>
-				</table>
-				<br />
 				<br />
 			</div>
 			<?php include ('includes/header.php');?>
 		</div>
 	</div>
+
+
 </body>
+
 </html>
