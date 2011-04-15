@@ -52,6 +52,22 @@ a kid, give Tux4Kids software a try!<br />
 
 				<table class="front">
 					<tr>
+						<th><b>NEWS, 2011-04-14: Tux Math 2.0.0!</b></th>
+					</tr>
+					<tr>
+						<td>
+				<br>
+Tux4Kids is proud to report the preliminary release of TuxMath-2.0.0.  Complete source code and an executable windows installer are available here at our site.  As these are preliminary releases that should be further tested, they are accessible only via the complete files list (MAKE LINK) - the regular "easy" links still point to the stable 1.9.0 version.  The new release is a major enhancement.  Factoroids has been completely overhauled, for better gameplay as well as enhanced educational value.  The LAN game has been improved and stabilized, and the single-player Arcade games now feature exciting powerup comets.  There are also new music tracks, improved menus, and many bug fixes, including reliably working native language support.  Many translations have been added or updated.  It should be noted that most of the new features were added during Google Code-In, Google's Open Source contest for secondary school students aged 13-18.  Many students made valuable contributions, but special recognition is in order for Aviral Dasgupta and Johndhel Maceda, who made very important programming contributions.  <br> <br>
+If no serious issues are uncovered in the preliminary release, an official release of TuxMath-2.0.0 will be made in a few days.  Users are encouraged to try out this release, which we believe is the best TuxMath yet.  However, if you are planning to install onto a large number of machines in e.g. a school lab, you may wish to wait a few days for the final release.
+				<br>
+				David Bruce<br />
+						</td>
+					</tr>
+				</table>
+				<br />
+
+				<table class="front">
+					<tr>
 						<th><b>NEWS, 2010-11-22: New release of Tux Math!</b></th>
 					</tr>
 					<tr>
@@ -66,30 +82,6 @@ Tux Math 1.9.0 has been released in source code form and as an executable win32 
 				<br />
 				
 
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 2010-05-02: Tux4Kids GSoC 2010 students announced!</b></th>
-					</tr>
-					<tr>
-						<td>
-				<br>
-			Google recently announced the students accepted for this year's Summer of Code.  There were six successful applicants with proposals to work on Tux4Kids:<br /><br />
-Wenyuan Guo: improved use of SVG in TuxMath	<br />
-Brendan Luchen: development of libt4k-common<br />
-Jesus Magar: "Tux History", an "Age of Empires"-style game with educational content.<br />
-Vikas Singh: development of tux4kids-admin. 	<br />
-Ankit Choudhary: accessibility improvements for Tux Paint <br />
-Joao Moriera: Tux Paint collaborative web application. <br /><br />
-
-Congratulations to this year's GSoC students, and here's to a fun summer of programming!
-				<br /><br /> 
-
-For more specific information, go to the<a href="http://socghop.appspot.com">GSoC website</a>.<br /><br />
-
-				David Bruce<br />
-						</td>
-					</tr>
-				</table>
 				<br />
 				<br />
 			</div>
