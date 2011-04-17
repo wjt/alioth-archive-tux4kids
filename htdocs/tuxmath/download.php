@@ -23,7 +23,7 @@
 					<tr>
 						<th colspan="2" width="700px">Windows(tested on 2000, XP, Vista)</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3469/tuxmath-1.9.0-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3546/tuxmath-2.0.0-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
@@ -73,7 +73,7 @@
 					<tr>
 						<th colspan=2" width="700px">Source</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3470/tuxmath_w_fonts-1.9.0.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3550/tuxmath_w_fonts-2.0.0.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
@@ -85,7 +85,7 @@
 					<tr>
 						<th colspan=2" width="700px">t4k_common library</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3439/t4k_common-0.0.3.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3540/t4k_common-0.1.1.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
@@ -93,7 +93,7 @@
 						<td>Standard *.tar.gz "tarball" source archive for the t4k_common library. This must be installed before building tuxmath-1.9.0 (or later) from source.  The Windows binary already has t4k_common included. The t4k_common libary can be built with "./configure; make; sudo make install" like other standard packages.  See README and INSTALL for details.</td>
 					</tr>
 				</table><br /><br />
-				If you are looking for earlier (or newer!) releases check out our <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.
+				For other files (GPG signatures, hashes, and old releases), a complete listing is available on the <a href="https://alioth.debian.org/frs/?group_id=31080">released files</a> page.
 			</div>
 <?php include ('includes/header.php');?>
 		</div>
