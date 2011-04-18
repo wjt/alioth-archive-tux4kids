@@ -1,4 +1,4 @@
-j?php include ('includes/pageheader.php');?>
+<?php include ('includes/pageheader.php');?>
 	<title>Tux4Kids - Projects</title>
 	</head>
 <body>
