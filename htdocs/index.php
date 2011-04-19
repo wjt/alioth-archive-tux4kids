@@ -53,7 +53,21 @@ a kid, give Tux4Kids software a try!<br />
 
 				<table class="front">
 					<tr>
-						<th><b>NEWS, 2011-04-14: Tux Math 2.0.0!</b></th>
+						<th><b>NEWS, 2011-04-19: Oops! Bug in TuxMath-2.0.0, Version 2.0.1 Released
+					</tr>
+					<tr>
+						<td>
+				<br>
+				<br>
+I apologize for introducing a last-minute bug into TuxMath-2.0.0 that causes Factoroids to be missing the numbers on the rocks.  This is fixed for version 2.0.1, which is being posted in the usual places.
+
+David Bruce
+						</td>
+					</tr>
+				</table>
+				<table class="front">
+					<tr>
+						<th><b>NEWS, 2011-04-17: Tux Math 2.0.0!</b></th>
 					</tr>
 					<tr>
 						<td>
