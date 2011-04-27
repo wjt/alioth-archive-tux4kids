@@ -53,6 +53,19 @@ a kid, give Tux4Kids software a try!<br />
 
 				<table class="front">
 					<tr>
+						<th><b>NEWS, 2011-04-27: Tux Math 2.0.2 Windows Release - Bug Fix</b></th>
+					</tr>
+					<tr>
+						<td>
+				<br>
+I apologize for the recent non-working windows build of Tux Math 2.0.1, and the important Factoroids bug in 2.0.0. The Windows build for release 2.0.2 has been posted here at Alioth and at Sourceforge.net.  It has been tested on Windows XP, and the above issues appear to be resolved.  There is still a less-critical bug that prevents the turn-based multiplayer mode from working in Windows, which will be investigated.  A source release for 2.0.2, as well as the checksum and signature files, should follow later today.  Again, thanks for your interest in Tux4Kids - David Bruce.
+				<br>
+						</td>
+					</tr>
+				</table>
+
+				<table class="front">
+					<tr>
 						<th><b>NEWS, 2011-04-14: Tux Math 2.0.0!</b></th>
 					</tr>
 					<tr>
