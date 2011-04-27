@@ -73,7 +73,7 @@
 					<tr>
 						<th colspan=2" width="700px">Source</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3550/tuxmath_w_fonts-2.0.0.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3561/tuxmath_w_fonts-2.0.1.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
