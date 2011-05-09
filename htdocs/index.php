@@ -53,6 +53,19 @@ a kid, give Tux4Kids software a try!<br />
 
 				<table class="front">
 					<tr>
+						<th><b>NEWS, 2011-05-09: Tux Math 2.0.3 for Win32, OS-X, and as Source!</b></th>
+					</tr>
+					<tr>
+						<td>
+				<br>
+TuxMath-2.0.3 has been released in source code form, as a Win32 binary installer, and as a program in MacPorts (<a href="http://www.macports.org"/>www.macports.org</a>.  This fixes a bug in the Windows release (turn-based multiplayer not starting) and addresses some Mac-specific issues, but is otherwise very similar to version 2.0.2. The OS-X version is a big upgrade over 1.7.2, but does contain two known bugs involving features that are new to the Mac version.  First, there is a cosmetic display problem with some of the images if the game is played in a 640x480 window.  The default fullscreen mode displays correctly.  Second, the LAN game appears to only work correctly if the client and server programs are running on the same machine.  If you can help debug or fix these problems, your help is greatly welcomed!  However, the standard single-player game and lessons work correctly, as does the newly enhanced Factoroids game.<br><br>
+As of yet, there is no standalone Mac binary ready for download.  I have been able to build a Snow Leopard TuxMath-2.0.3 dmg using MacPorts, but it is an extremely large (> 100 MB) file as it contains a very large number of dependency librarys.  I'm currently investigating whether the size of the image can be reduced.
+				<br>
+						</td>
+					</tr>
+				</table>
+				<table class="front">
+					<tr>
 						<th><b>NEWS, 2011-04-17: Tux Math 2.0.0!</b></th>
 					</tr>
 					<tr>
