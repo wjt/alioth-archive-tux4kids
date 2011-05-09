@@ -23,7 +23,7 @@
 					<tr>
 						<th colspan="2" width="700px">Windows(tested on 2000, XP, Vista)</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3570/tuxmath-2.0.2-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/3577/tuxmath-2.0.3-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
