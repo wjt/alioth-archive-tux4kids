@@ -53,31 +53,31 @@ a kid, give Tux4Kids software a try!<br />
 
 				<table class="front">
 					<tr>
-						<th><b>NEWS, 2011-05-09: Tux Math 2.0.3 for Win32, OS-X, and as Source!</b></th>
+						<th><b>NEWS, 2011-11-20: Tux4Kids participating in Google Code-In 2011, starts tomorrow!</b></th>
 					</tr>
 					<tr>
 						<td>
 				<br>
-TuxMath-2.0.3 has been released in source code form, as a Win32 binary installer, and as a program in MacPorts (<a href="http://www.macports.org"/>www.macports.org</a>).  This fixes a bug in the Windows release (turn-based multiplayer not starting) and addresses some Mac-specific issues, but is otherwise very similar to version 2.0.2. The OS-X version is a big upgrade over 1.7.2, but does contain two known bugs involving features that are new to the Mac version.  First, there is a cosmetic display problem with some of the images if the game is played in a 640x480 window.  The default fullscreen mode displays correctly.  Second, the LAN game appears to only work correctly if the client and server programs are running on the same machine.  If you can help debug or fix these problems, your help is greatly welcomed!  However, the standard single-player game and lessons work correctly, as does the newly enhanced Factoroids game.<br><br>
-As of yet, there is no standalone Mac binary ready for download.  I have been able to build a Snow Leopard TuxMath-2.0.3 dmg using MacPorts, but it is an extremely large (> 100 MB) file as it contains a very large number of dependency librarys.  I'm currently investigating whether the size of the image can be reduced.
+Tux4Kids is once again participating in <a href="http://google-melange.appspot.com/gci"/>Google Code-In</a> (GCI) for 2011-12. GCI is a contest for pre-university students ages 13-17 that is aimed at getting young people involved in the creation of Free/Open Source software such as our programs.  The contest involves completion of multiple brief tasks (comparable to school projects or homework assignments), as opposed to a single major project as in GSoC.  The tasks include not only programming, but also non-code contributions such as documentation, artwork, training, and community outreach.  Full rules are available at the GCI website.  It should be noted that GCI students are not tied to a single mentoring organization.
+<br>
+IMPORTANT: for all code tasks, you will need to work from our git repositories (see links on this page).  Create a local clone on your machine, create a feature branch for your task, and get to work.  Completed code tasks will be submitted as patches ("git diff" is your friend).  Note - if you work on tuxmath, use tuxmath's "master" branch as your base, which depends on t4k_common-0.1.1 (the latest tarball).Don't install t4k_common from git unless you are working on the common library itself.  The latest git build of t4k_common is incompatible with tuxmath's master branch.  If you need to work on t4k_common, there is a tuxmath branch called "t4k-1.0.0" that is compatible with the latest git build of t4k_common. Simple, right?
 				<br>
 						</td>
 					</tr>
 				</table>
 				<table class="front">
 					<tr>
-						<th><b>NEWS, 2011-04-17: Tux Math 2.0.0!</b></th>
+						<th><b>NEWS, 2011-05-09: Tux Math 2.0.3 for Win32, OS-X, and as Source!</b></th>
 					</tr>
 					<tr>
 						<td>
 				<br>
-Tux4Kids is proud to report the release of TuxMath-2.0.0.  Complete source code and an executable windows installer are available here at our site.  The new release is a major enhancement.  Factoroids has been completely overhauled, for better gameplay as well as enhanced educational value.  The LAN game has been improved and stabilized, and the single-player Arcade games now feature exciting powerup comets.  There are also new music tracks, improved menus, and many bug fixes, including reliably working native language support.  Many translations have been added or updated.  It should be noted that most of the new features were added during Google Code-In, Google's Open Source contest for secondary school students aged 13-18.  Many students made valuable contributions, but special recognition is in order for Aviral Dasgupta and Johndhel Maceda, who made very important programming contributions.  <br> <br>
-Note - starting with this release, we are providing GPG signature files and both sha1 and md5 hashes for all files, including the Windows binary installer.  These files can be used with the GNU Privacy Guard (GPG) to verify the integrity of the packages, and their origination from our project.  A GPG signature provides authentication equivalent to that provided by a SSL code-signing certificate, but without expense to a purely volunteer project such as Tux4Kids.  We realize that users encounter browser warnings when downloading our packages due to Alioth's use of self-signed SSL certificates, and also warnings at installation from "this package lacks a valid digital signature".  We are working with the Alioth admins to address this issue.  Hopefully, we will soon provide authentication that is simple, user-friendly, and supported by the dominant consumer operating systems.  In the meantime, we have furnished a robust mechanism to validate the packages for those who are concerned by the warnings.  Also, we provide the same packages for download at <a href="http://sourceforge.net/projects/tuxmath"/>SourceForge.net</a> , where they can be downloaded without triggering any browser warnings.
+TuxMath-2.0.3 has been released in source code form, as a Win32 binary installer, and as a program in MacPorts (<a href="http://www.macports.org"/>www.macports.org</a>).  This fixes a bug in the Windows release (turn-based multiplayer not starting) and addresses some Mac-specific issues, but is otherwise very similar to version 2.0.2. The OS-X version is a big upgrade over 1.7.2, but does contain two known bugs involving features that are new to the Mac version.  First, there is a cosmetic display problem with some of the images if the game is played in a 640x480 window.  The default fullscreen mode displays correctly.  Second, the LAN game appears to only work correctly if the client and server programs are running on the same machine.  If you can help debug or fix these problems, your help is greatly welcomed!  However, the standard single-player game and lessons work correctly, as does the newly enhanced Factoroids game.<br><br>
+As of yet, there is no standalone Mac binary ready for download.  I have been able to build a Snow Leopard TuxMath-2.0.3 dmg using MacPorts, but it is an extremely large (> 100 MB) file as it contains a very large number of dependency libraries.  I'm currently investigating whether the size of the image can be reduced.
 				<br>
 						</td>
 					</tr>
 				</table>
-
 				<table class="front">
 					<tr>
 						<th><b>NEWS, 2011-01-16: Tux4Kids is on Facebook</b></th>
@@ -97,20 +97,6 @@ To help promote our educational software, we have created a Tux4Kids Facebook pa
 
 				<br />
 
-				<table class="front">
-					<tr>
-						<th><b>NEWS, 2011-01-16: Tux4Kids participates in Google Code-In</b></th>
-					</tr>
-					<tr>
-						<td>
-				<br>
-This year's Google Code-In has just finished, and Tux4Kids received a lot of attention from the 13-18 year old students competing in the contest.  The students completed nearly 100 tasks to help enhance Tux Paint, Tux Math, and Tux Typing.  These tasks included both coding and non-code contributions, such as translations, artwork, and documentation. Many of the tasks added features that will be very visible to users, as opposed to the "infrastructure" work that has occupied much of our efforts recently.  In particular, Tux Math's "Factoroids" activity has been extensively reworked, and is greatly improved with respect to both learning and gameplay (i.e. fun!).  We hope to have new releases available in the next few weeks once the new code is fully tested and stabilized.<br /><br />
-
-
-				David Bruce<br />
-						</td>
-					</tr>
-				</table>
 				<br />
 				
 
