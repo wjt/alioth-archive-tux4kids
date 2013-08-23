@@ -23,7 +23,7 @@
 					<tr>
 						<th colspan="2" width="700px">Windows(tested on 2000, XP, Vista)</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3577/tuxmath-2.0.3-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/file/3577/tuxmath-2.0.3-win32-installer.exe"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
@@ -35,7 +35,7 @@
 					<tr>
 						<th colspan="2" width="700px">Macintosh OS X</th>
 						<td>	
-							<a href="https://alioth.debian.org/frs/download.php/3272/tuxmath-1.8.0-macosx.dmg"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/file/3272/tuxmath-1.8.0-macosx.dmg"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
@@ -73,7 +73,7 @@
 					<tr>
 						<th colspan=2" width="700px">Source</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3561/tuxmath_w_fonts-2.0.1.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/file/3561/tuxmath_w_fonts-2.0.1.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
@@ -85,7 +85,7 @@
 					<tr>
 						<th colspan=2" width="700px">t4k_common library</th>
 						<td>
-							<a href="https://alioth.debian.org/frs/download.php/3540/t4k_common-0.1.1.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
+							<a href="https://alioth.debian.org/frs/download.php/file/3540/t4k_common-0.1.1.tar.gz"><img src="images/dbutton.png" alt="Download"></a>
 						</td>
 					</tr>
 					<tr>
